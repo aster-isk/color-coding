@@ -1,0 +1,655 @@
+Title,Artist,Year,Country,Thumbnail
+b'Saint John the Baptist and Saint Francis of Assisi',b'El Greco',b'17',b'GR',https://az333960.vo.msecnd.net/images-0/untitled-el-greco-85-9e17ad9c.jpg
+b'Christ Carrying the Cross',b'El Greco',b'1595',b'GR',https://az334033.vo.msecnd.net/images-9/untitled-el-greco-35-82ed7671.jpg
+b'Winter 1882',b'Francesc Masriera Manovens',b'1882',,https://az334033.vo.msecnd.net/images-1/winter-1882-francesc-masriera-manovens-1882-8e52a28a.jpg
+b'Idle Hours',b'Ramon Casas i Carb\xc3\xb3',b'1900',b'ES',https://az334033.vo.msecnd.net/images-2/idle-hours-ramon-casas-i-carbo-db4f1b11.jpg
+b'Springtime',b'Francisco Miralles Galup',b'Springtime',,https://az333959.vo.msecnd.net/images-9/springtime-francisco-miralles-galup-36363578.jpg
+b'Still Life with Dish of Quince',b'Francisco de Zurbar\xc3\xa1n',b'Quince',b'ES',https://az333959.vo.msecnd.net/images-0/untitled-francisco-de-zurbaran-5-c4d98b0c.jpg
+b'A Romance',b'Santiago Rusi\xc3\xb1ol',b'1894',b'ES',https://az334034.vo.msecnd.net/images-8/a-romance-santiago-rusinol-6aa8e095.jpg
+b'Madonna of Humility',b'Fra Angelico',b'1433',b'IT',https://az334034.vo.msecnd.net/images-4/madonna-of-humility-fra-angelico-1433-0d0cf87d.jpg
+b'Early Flowers',b'Joan Brull Vinyoles',b'Flowers',b'ES',https://az334033.vo.msecnd.net/images-0/early-flowers-joan-brull-vinyoles-6ee086c7.jpg
+b'Female Figure',b'Santiago Rusi\xc3\xb1ol',b'1894',b'ES',https://az333959.vo.msecnd.net/images-7/female-figure-santiago-rusinol-9661618d.jpg
+b'Over My Dead Body',b'Ramon Casas i Carb\xc3\xb3',b'1893',b'ES',https://az334034.vo.msecnd.net/images-8/over-my-dead-body-ramon-casas-i-carbo-1893-33f17c2d.jpg
+b'Senyor Quer in the Garden',b'Santiago Rusi\xc3\xb1ol',b'1889',b'ES',https://az333960.vo.msecnd.net/images-8/senyor-quer-in-the-garden-santiago-rusinol-9b7463a8.jpg
+b'Elena and Maria in Old-Fashioned Valencian Costume',b'Joaquin Sorolla y Bastida',b'1908',b'ES',https://az333960.vo.msecnd.net/images-1/elena-and-maria-in-old-fashioned-valencian-costume-joaquin-sorolla-1908-cf0c4db9.jpg
+b'Sitges Interior',b'Santiago Rusi\xc3\xb1ol',b'1894',b'ES',https://az333960.vo.msecnd.net/images-4/sitges-interior-santiago-rusinol-d6805e48.jpg
+b'Blue Courtyard',b'Santiago Rusi\xc3\xb1ol',b'1913',b'ES',https://az333960.vo.msecnd.net/images-7/blue-courtyard-santiago-rusinol-1913-b5e9076b.jpg
+b'Romantic Novel',b'Santiago Rusi\xc3\xb1ol',b'1894',b'ES',https://az333960.vo.msecnd.net/images-8/romantic-novel-santiago-rusinol-dcd5862a.jpg
+b'Entrance to the Park of the Moulin de la Galette',b'Santiago Rusi\xc3\xb1ol',b'Galette',b'ES',https://az333959.vo.msecnd.net/images-4/entrance-to-the-park-of-the-moulin-de-la-galette-santiago-rusinol-aef38d06.jpg
+b'Portrait of Dolors Vidal',b'Ramon Casas i Carb\xc3\xb3',b'Vidal',b'ES',https://az333959.vo.msecnd.net/images-6/portrait-of-dolors-vidal-ramon-casas-i-carbo-4837b0e2.jpg
+b'Saint Jerome in his Study',b'Jaume Ferrer II',b'Study',,https://az333960.vo.msecnd.net/images-0/saint-jerome-in-his-study-jaume-ferrer-ii-e43bcb47.jpg
+b'Girl Before the Mirror',b'Tizianello',b'Mirror',,https://az333959.vo.msecnd.net/images-3/girl-before-the-mirror-tizianello-5a068a68.jpg
+b'Madonna and Child with Saint Elizabeth and the Young...',b'Peter Paul Rubens',b'Young...',b'NL',https://az333959.vo.msecnd.net/images-7/madonna-and-child-with-saint-elizabeth-and-the-young-saint-john-peter-paul-rubens-a9ea4baf.jpg
+b'The Bell for Prayer',b'Modest Urgell',b'Prayer',b'ES',https://az334033.vo.msecnd.net/images-0/the-bell-for-prayer-modest-urgell-181cf1f3.jpg
+b'Landscape',b'Joan Brull Vinyoles',b'Landscape',b'ES',https://az333959.vo.msecnd.net/images-0/landscape-joan-brull-vinyoles-3cdb47a5.jpg
+b'Smiling girl bust',b'Joan Brull Vinyoles',b'bust',b'ES',https://az333959.vo.msecnd.net/images-6/smiling-girl-bust-joan-brull-vinyoles-a8ee5159.jpg
+b'Rosalia',b'Joan Brull Vinyoles',b'Rosalia',b'ES',https://az333960.vo.msecnd.net/images-6/rosalia-joan-brull-vinyoles-5eb5bc28.jpg
+b'Woman Sleeping',b'Francisco Gimeno Arasa',b'1899',,https://az334034.vo.msecnd.net/images-4/woman-sleeping-francisco-gimeno-arasa-b13ef2fb.jpg
+b'Flores',b'Isidre Nonell',b'1910',,https://az333959.vo.msecnd.net/images-4/flores-isidre-nonell-301d0543.jpg
+|b'Still Life with Pomegranates, Apples, Pears, Grapes, Figs...'|,b'Tommaso Realfonso',b'Figs...',,https://az333960.vo.msecnd.net/images-5/still-life-with-pomegranates-apples-pears-grapes-figs-and-birds-tommaso-realfonso-3c05ffc2.jpg
+b'Portrait of Pierre-Louis Laideguive',b'Maurice-Quentin de La Tour',b'1761',b'FR',https://az334034.vo.msecnd.net/images-2/portrait-of-pierre-louis-laideguive-maurice-quentin-de-la-tour-1761-f0a28c6c.jpg
+b'Landscape with the Flight to Egypt',b'Cornelis Massijs',b'Egypt',b'NL',https://az333959.vo.msecnd.net/images-0/landscape-with-the-flight-to-egypt-cornelis-massijs-5227179c.jpg
+b'Saint Gregory the Pope',b'Pedro Berruguete',b'Pope',,https://az333960.vo.msecnd.net/images-1/saint-gregory-the-pope-pedro-berruguete-cb69598a.jpg
+b'Ramon Casas and Pere Romeu in an Automobile',b'Ramon Casas i Carb\xc3\xb3',b'1901',b'ES',https://az334033.vo.msecnd.net/images-3/ramon-casas-and-pere-romeu-in-an-automobile-ramon-casas-i-carbo-1901-2299a82b.jpg
+b'Portrait of the Girl Ros\xc3\xb3 Galia',b'Joan Brull Vinyoles',b'1896',b'ES',https://az334033.vo.msecnd.net/images-4/portrait-of-the-girl-roso-galia-joan-brull-vinyoles-1896-d4b3fccf.jpg
+b'African Beach',b'Mari\xc3\xa0 Fortuny',b'Beach',b'ES',https://az333959.vo.msecnd.net/images-3/african-beach-maria-fortuny-a6fd6197.jpg
+b'Parc Cordier in Trouville',b'Eug\xc3\xa8ne Boudin',b'Trouville',b'FR',https://az333959.vo.msecnd.net/images-9/parc-cordier-in-trouville-eugene-boudin-c6e9b4a2.jpg
+b'Miracle of Mont Saint-Michel',b'Jaume Huguet',b'Saint-Michel',,https://az334034.vo.msecnd.net/images-6/miracle-of-mont-saint-michel-jaume-huguet-288d404d.jpg
+b'Untitled',b'Francisco Ribalta',b'Untitled',b'ES',https://az333960.vo.msecnd.net/images-4/untitled-francisco-ribalta-59294cca.jpg
+b'Study',b'Isidre Nonell',b'1906',,https://az333960.vo.msecnd.net/images-5/study-isidre-nonell-1906-ee69547e.jpg
+b'Virgin of the Angels',b'Pere Serra',b'1385',,https://az334033.vo.msecnd.net/images-3/virgin-of-the-angels-pere-serra-1385-18c6945e.jpg
+b'Untitled',b'Claudi Lorenzale',b'Untitled',b'ES',https://az334034.vo.msecnd.net/images-8/untitled-claudi-lorenzale-0af1521f.jpg
+b'Saint Francis Receives the Order from the Crucifix at...',b'Antoni Viladomat Y Manalt',b'at...',,https://az333960.vo.msecnd.net/images-7/saint-francis-receives-the-order-from-the-crucifix-at-saint-damian-to-repair-the-house-of-god-antoni-viladomat-y-manalt-1f6c7aea.jpg
+b'Martyrdom of Saint Lucy',b'Bernat Martorell',b'1440',,https://az333959.vo.msecnd.net/images-9/untitled-bernat-martorell-1-a6cbd009.jpg
+b'San Miguel Arc\xc3\xa1ngel (Blasco de Gra\xc3\xb1\xc3\xa9n)',b'Blasco de Gra\xc3\xb1\xc3\xa9n',b'1435',,https://az334034.vo.msecnd.net/images-9/san-miguel-arcangel-blasco-de-granen-blasco-de-granen-1435-93cb7893.jpg
+b'Untitled',b'Anonymous',b'Untitled',,https://az333959.vo.msecnd.net/images-1/untitled-anonymous-211-89606c05.jpg
+b'Returning from the Plot',b'Joan Llimona',b'1896',,https://az334034.vo.msecnd.net/images-2/returning-from-the-plot-joan-llimona-1896-71082610.jpg
+b'Birth of Saint Stephen',b'Verg\xc3\xb3s Group',b'Stephen',,https://az333959.vo.msecnd.net/images-6/birth-of-saint-stephen-vergos-group-1ff73588.jpg
+b'Springtime in Rome',b'Baldomero Gim\xc3\xa9nez',b'Rome',,https://az333959.vo.msecnd.net/images-6/springtime-in-rome-baldomero-gimenez-850aeae0.jpg
+b'Untitled',b'Anonymous',b'Untitled',,https://az334033.vo.msecnd.net/images-6/untitled-anonymous-206-93e7e904.jpg
+b'Saint Anthony the Abbot Tormented by Demons',b'Joan Des\xc3\xad',b'Demons',,https://az334034.vo.msecnd.net/images-8/saint-anthony-the-abbot-tormented-by-demons-joan-desi-4ebfdac9.jpg
+b'Presentation of Jesus at the Temple',b'Master of the Cini Madonna',b'Temple',,https://az334034.vo.msecnd.net/images-2/presentation-of-jesus-at-the-temple-master-of-the-cini-madonna-c613b980.jpg
+b'Two cloths from the doors of an altarpiece with scenes of...',b'Pedro Berruguete',b'of...',,https://az333960.vo.msecnd.net/images-5/two-cloths-from-the-doors-of-an-altarpiece-with-scenes-of-saint-catherine-s-life-pedro-berruguete-4fc5262b.jpg
+b'Untitled',b'Anonymous',b'Untitled',,https://az333960.vo.msecnd.net/images-0/untitled-anonymous-205-f731b992.jpg
+b'Birth of the Virgin and Presentation at the Temple',b'Master of Cinctorres',b'Temple',,https://az333959.vo.msecnd.net/images-8/birth-of-the-virgin-and-presentation-at-the-temple-master-of-cinctorres-86ab1e08.jpg
+b'Altar frontal from Santa Maria in Ta\xc3\xbcll',b'Anonymous',b'1200',,https://az334033.vo.msecnd.net/images-7/altar-frontal-from-santa-maria-in-taull-anonymous-1200-b6a13c28.jpg
+b'Portrait of the cabinet-maker Francesc Vidal i Javell\xc3\xad',b'Sim\xc3\xb3 G\xc3\xb3mez',b'Javell\xc3\xad',,https://az334033.vo.msecnd.net/images-6/untitled-simo-gomez-7b7630c3.jpg
+b'Ramon Casas and Pere Romeu on a Tandem',b'Ramon Casas i Carb\xc3\xb3',b'1897',b'ES',https://az333959.vo.msecnd.net/images-6/ramon-casas-and-pere-romeu-on-a-tandem-ramon-casas-i-carbo-1897-b9c8c967.jpg
+b'Saint Cecilia',b'Giovanni Battista Tiepolo',b'Cecilia',b'IT',https://az334034.vo.msecnd.net/images-9/saint-cecilia-giovanni-battista-tiepolo-ee848595.jpg
+b'Saint Peter and Saint Paul',b'El Greco',b'1595',b'GR',https://az334033.vo.msecnd.net/images-3/saint-peter-and-saint-paul-el-greco-1595-f19d87c3.jpg
+b'Dolores',b'Isidre Nonell',b'Dolores',,https://az333959.vo.msecnd.net/images-5/dolores-isidre-nonell-0d5a3a19.jpg
+b'The Seven Virtues',b'Anton Francesco dello Scheggia',b'Virtues',,https://az333960.vo.msecnd.net/images-2/the-seven-virtues-anton-francesco-dello-scheggia-056c2b4f.jpg
+b'Consuelo',b'Isidre Nonell',b'Consuelo',,https://az333960.vo.msecnd.net/images-2/consuelo-isidre-nonell-17b7fb58.jpg
+b'In the Presence of the Lord',b'Francesc Masriera Manovens',b'1891',,https://az333960.vo.msecnd.net/images-3/in-the-presence-of-the-lord-francesc-masriera-manovens-1891-abff36bc.jpg
+|b'Saint Michael, Martyrdom of Saint Eulalia and Saint...'|,b'Bernat Martorell',b'Saint...',,https://az334033.vo.msecnd.net/images-1/saint-michael-martyrdom-of-saint-eulalia-and-saint-catherine-bernat-martorell-2c9ca234.jpg
+b'Self-portrait',b'Mari\xc3\xa0 Fortuny',b'Self-portrait',b'ES',https://az334033.vo.msecnd.net/images-9/self-portrait-maria-fortuny-fca72fe3.jpg
+b'Untitled',b'Jos\xc3\xa9 Claudio Antolinez',b'Untitled',,https://az333959.vo.msecnd.net/images-6/untitled-jose-claudio-antolinez-38256029.jpg
+b'Profile of a Gypsy Woman',b'Isidre Nonell',b'1902',,https://az333959.vo.msecnd.net/images-0/profile-of-a-gypsy-woman-isidre-nonell-1902-b428ba22.jpg
+b'Consuelo',b'Isidre Nonell',b'Consuelo',,https://az333959.vo.msecnd.net/images-1/consuelo-isidre-nonell-1-8ce24f37.jpg
+|b'Lady Alethea Talbot, Countess of Arundel'|,b'Peter Paul Rubens',b'1620',b'NL',https://az334033.vo.msecnd.net/images-5/lady-alethea-talbot-countess-of-arundel-peter-paul-rubens-1620-e39f973a.jpg
+b'Portrait of Miquel Utrillo',b'Santiago Rusi\xc3\xb1ol',b'Utrillo',b'ES',https://az333960.vo.msecnd.net/images-8/portrait-of-miquel-utrillo-santiago-rusinol-1-f252d512.jpg
+b'Saint John the Baptist',b'Raffaellino del Garbo',b'Baptist',,https://az333959.vo.msecnd.net/images-4/saint-john-the-baptist-raffaellino-del-garbo-cd132ab9.jpg
+b'Head of a Black Man',b'Govert Flinck',b'Man',b'NL',https://az333960.vo.msecnd.net/images-7/head-of-a-black-man-govert-flinck-e4352e5c.jpg
+b'Descent of Christ into Limbo',b'Bartolom\xc3\xa9 Bermejo',b'Limbo',,https://az333960.vo.msecnd.net/images-5/descent-of-christ-into-limbo-bartolome-bermejo-8f8c7b64.jpg
+b'Pelona',b'Isidre Nonell',b'Pelona',,https://az333960.vo.msecnd.net/images-3/pelona-isidre-nonell-fcc838ec.jpg
+|b'Still Life with Apples, Grapes, Melons, Bread, Jug and...'|,b'Luis Egidio Mel\xc3\xa9ndez',b'and...',,https://az334033.vo.msecnd.net/images-3/still-life-with-apples-grapes-melons-bread-jug-and-bottle-luis-egidio-melendez-7cbab325.jpg
+b'La Paloma',b'Isidre Nonell',b'1904',,https://az333960.vo.msecnd.net/images-6/la-paloma-isidre-nonell-1904-4d710f3d.jpg
+b'The hand of God from Sant Climent de Ta\xc3\xbcll',b'Master of Ta\xc3\xbcll',b'Ta\xc3\xbcll',,https://az334033.vo.msecnd.net/images-3/the-hand-of-god-from-sant-climent-de-taull-master-of-taull-2ad3c77f.jpg
+b'Epilogue for a Masked Ball',b'Rom\xc3\xa0 Ribera i Cirera',b'Ball',,https://az333960.vo.msecnd.net/images-8/epilogue-for-a-masked-ball-roma-ribera-i-cirera-dd97b59b.jpg
+b'Head of an Old Man',b'Quentin Matsys',b'Man',b'BE',https://az334033.vo.msecnd.net/images-6/head-of-an-old-man-quentin-matsys-00ef2b86.jpg
+b'Tobias and the Fish',b'Andrea Vaccaro',b'Fish',,https://az333960.vo.msecnd.net/images-2/tobias-and-the-fish-andrea-vaccaro-2fdb219e.jpg
+b'Martyrdom of Saint Eulalia',b'Bernat Martorell',b'Eulalia',,https://az333960.vo.msecnd.net/images-1/martyrdom-of-saint-eulalia-bernat-martorell-09bea42c.jpg
+|b'Still Life with Bread, Apples, Grapes and a Bottle'|,b'Luis Egidio Mel\xc3\xa9ndez',b'Bottle',,https://az333959.vo.msecnd.net/images-0/still-life-with-bread-apples-grapes-and-a-bottle-luis-egidio-melendez-699d5bff.jpg
+b'Saint Paul the Hermit',b'Mattia Preti',b'Hermit',,https://az334033.vo.msecnd.net/images-4/saint-paul-the-hermit-mattia-preti-09055b3d.jpg
+b'Reclining figure',b'Isidre Nonell',b'figure',,https://az334033.vo.msecnd.net/images-0/reclining-figure-isidre-nonell-80313763.jpg
+b'Granada Landscape',b'Mari\xc3\xa0 Fortuny',b'Landscape',b'ES',https://az333959.vo.msecnd.net/images-8/granada-landscape-maria-fortuny-86208008.jpg
+b'Martyrdom of Saint Bartholomew',b'Jusepe de Ribera',b'1644',b'ES',https://az334034.vo.msecnd.net/images-0/martyrdom-of-saint-bartholomew-jusepe-de-ribera-1644-c31fa431.jpg
+b'Last Supper',b'Jaume Huguet',b'Supper',,https://az334033.vo.msecnd.net/images-8/last-supper-jaume-huguet-da70dbc9.jpg
+b'Flores',b'Isidre Nonell',b'Flores',,https://az333960.vo.msecnd.net/images-9/flores-isidre-nonell-1-b6d11be7.jpg
+b'Our Lady of Mercy',b'Bonanat Zaortiga the Elder',b'Mercy',,https://az334033.vo.msecnd.net/images-4/our-lady-of-mercy-bonanat-zaortiga-the-elder-3d8a7cc2.jpg
+b'Portrait of Senyora Espalter',b'Joaqu\xc3\xadn Espalter y Rull',b'1852',,https://az334033.vo.msecnd.net/images-8/portrait-of-senyora-espalter-joaquin-espalter-y-rull-1852-1cfc58b2.jpg
+b'Portrait of Cardinal Girolamo Casanate',b'Jacob Ferdinand Voet',b'Casanate',,https://az334033.vo.msecnd.net/images-7/portrait-of-cardinal-girolamo-casanate-jacob-ferdinand-voet-37852427.jpg
+b'Saint Augustine Disputing with the Heretics',b'Verg\xc3\xb3s Group',b'Heretics',,https://az334034.vo.msecnd.net/images-3/saint-augustine-disputing-with-the-heretics-vergos-group-8a3c1bed.jpg
+b'Saint-Mamm\xc3\xa8s. June Sunshine',b'Alfred Sisley',b'1892',b'GB',https://az333960.vo.msecnd.net/images-1/saint-mammes-june-sunshine-alfred-sisley-1892-54c67531.jpg
+b'Interior del Moulin de la Galette',b'Ramon Casas i Carb\xc3\xb3',b'1891',b'ES',https://az334034.vo.msecnd.net/images-2/untitled-ramon-casas-i-carbo-1-cd3e0b65.jpg
+b'Portrait of a Young Man with a Wig',b'Nicolas de Largilli\xc3\xa8re',b'Wig',b'FR',https://az333959.vo.msecnd.net/images-5/portrait-of-a-young-man-with-a-wig-nicolas-de-largilliere-41771125.jpg
+b'Tobias Meets the Archangel Raphael',b'Andrea Vaccaro',b'Raphael',,https://az334033.vo.msecnd.net/images-9/tobias-meets-the-archangel-raphael-andrea-vaccaro-cca352b8.jpg
+b'Ruins of the Church of the Holy Sepulchre',b'Ramon Mart\xc3\xad Alsina',b'1862',,https://az334034.vo.msecnd.net/images-6/ruins-of-the-church-of-the-holy-sepulchre-ramon-marti-alsina-1862-72c694c9.jpg
+b'Ruins',b'Llu\xc3\xads Rigalt',b'1865',,https://az334034.vo.msecnd.net/images-2/ruins-lluis-rigalt-1865-8398d4cf.jpg
+b'Virgin and Child with an Angel',b'Francesco del Cossa',b'Angel',,https://az334034.vo.msecnd.net/images-2/virgin-and-child-with-an-angel-francesco-del-cossa-9be8d209.jpg
+b'Untitled',b'Ramon Casas i Carb\xc3\xb3',b'1892',b'ES',https://az334034.vo.msecnd.net/images-2/untitled-ramon-casas-i-carbo-1892-ddfd44a9.jpg
+b'Rest',b'Isidre Nonell',b'Rest',,https://az333960.vo.msecnd.net/images-1/rest-isidre-nonell-fb2dfa8f.jpg
+b'Assumpci\xc3\xb3',b'Isidre Nonell',b'Assumpci\xc3\xb3',,https://az334034.vo.msecnd.net/images-0/assumpcio-isidre-nonell-faa4c3a9.jpg
+b'Young Gypsy Woman',b'Isidre Nonell',b'Woman',,https://az334033.vo.msecnd.net/images-4/young-gypsy-woman-isidre-nonell-caca9da2.jpg
+b'Sorrow',b'Joaquim Vayreda',b'1876',,https://az334034.vo.msecnd.net/images-1/sorrow-joaquim-vayreda-1876-af8f4c8e.jpg
+b'Portrait of Carlota Quintana Badia',b'Federico de Madrazo y Kuntz',b'1869',,https://az333959.vo.msecnd.net/images-0/portrait-of-carlota-quintana-badia-federico-de-madrazo-y-kuntz-1869-f55d0be9.jpg
+b'Tobias Heals his Blind Father',b'Andrea Vaccaro',b'Father',,https://az333960.vo.msecnd.net/images-9/tobias-heals-his-blind-father-andrea-vaccaro-6c8bcf42.jpg
+b'Untitled',b'Francisco de Zurbar\xc3\xa1n',b'Untitled',b'ES',https://az333960.vo.msecnd.net/images-7/untitled-francisco-de-zurbaran-3-2994c22a.jpg
+b'Study',b'Isidre Nonell',b'Study',,https://az334033.vo.msecnd.net/images-3/study-isidre-nonell-27ae2f9a.jpg
+b'Resurrection of Christ',b'Bartolom\xc3\xa9 Bermejo',b'1475',,https://az334034.vo.msecnd.net/images-3/resurrection-of-christ-bartolome-bermejo-1475-5ce393f0.jpg
+b'Thinking',b'Isidre Nonell',b'Thinking',,https://az333959.vo.msecnd.net/images-9/thinking-isidre-nonell-00b70c2f.jpg
+b'Moroccan Horseshoer',b'Mari\xc3\xa0 Fortuny',b'Horseshoer',b'ES',https://az334033.vo.msecnd.net/images-1/moroccan-horseshoer-maria-fortuny-4a687ae3.jpg
+b'Vittoria Colonna [?]',b'Sebastiano del Piombo',b'[?]',b'IT',https://az334034.vo.msecnd.net/images-3/vittoria-colonna-sebastiano-del-piombo-c46ff7fe.jpg
+|b'Juan Francisco de la Cerda, VIII Duke of Medinaceli'|,b'Claudio Coello',b'Medinaceli',,https://az333959.vo.msecnd.net/images-7/juan-francisco-de-la-cerda-viii-duke-of-medinaceli-claudio-coello-e9ac119f.jpg
+b"Altar frontal from La Seu d'Urgell or of The Apostles",b'Anonymous',b'1125',,https://az334034.vo.msecnd.net/images-6/altar-frontal-from-la-seu-d-urgell-or-of-the-apostles-anonymous-1125-b0a97332.jpg
+b'Bust of a Man. Allegory of Bacchus',b'Mari\xc3\xa0 Fortuny',b'Bacchus',b'ES',https://az334034.vo.msecnd.net/images-5/bust-of-a-man-allegory-of-bacchus-maria-fortuny-73d54ef1.jpg
+b'Amparo',b'Isidre Nonell',b'Amparo',,https://az333959.vo.msecnd.net/images-3/amparo-isidre-nonell-c005b8a8.jpg
+b'Saint Dominic de Guzm\xc3\xa1n',b'Juan de Vald\xc3\xa9s Leal',b'Guzm\xc3\xa1n',,https://az333960.vo.msecnd.net/images-8/saint-dominic-de-guzman-juan-de-valdes-leal-699f01d3.jpg
+b'The Housewives',b'Llu\xc3\xafsa Vidal',b'1905',,https://az333960.vo.msecnd.net/images-3/the-housewives-lluisa-vidal-1905-69b5f3dd.jpg
+b'Courtyard of the old Barcelona prison (Courtyard of the ...',b'Ramon Casas i Carb\xc3\xb3',b'...',b'ES',https://az334033.vo.msecnd.net/images-2/courtyard-of-the-old-barcelona-prison-courtyard-of-the-lambs-ramon-casas-i-carbo-db682e40.jpg
+b'Saint Augustine and Saint Monica in a Sermon by Saint...',b'Verg\xc3\xb3s Group',b'Saint...',,https://az333960.vo.msecnd.net/images-6/saint-augustine-and-saint-monica-in-a-sermon-by-saint-ambrose-vergos-group-f029be42.jpg
+b'Apse of Sant Climent de Ta\xc3\xbcll',b'Master of Ta\xc3\xbcll',b'Ta\xc3\xbcll',,https://az333960.vo.msecnd.net/images-9/apse-of-sant-climent-de-taull-master-of-taull-07789ea6.jpg
+b'Arch of the Apocalyptic Lamb from Sant Climent de Ta\xc3\xbcll',b'Master of Ta\xc3\xbcll',b'Ta\xc3\xbcll',,https://az333959.vo.msecnd.net/images-0/arch-of-the-apocalyptic-lamb-from-sant-climent-de-taull-master-of-taull-e5e29238.jpg
+b'Saint Vincent at the Stake',b'Jaume Huguet',b'Stake',,https://az334033.vo.msecnd.net/images-6/saint-vincent-at-the-stake-jaume-huguet-b6f822cd.jpg
+b'Knitting',b'Dionisio Baixeras Verdaguer',b'1888',,https://az334033.vo.msecnd.net/images-5/knitting-dionisio-baixeras-verdaguer-1888-2a016e59.jpg
+b'Saint Catherine',b'Paolo Veronese',b'Catherine',b'IT',https://az333960.vo.msecnd.net/images-9/saint-catherine-paolo-veronese-4fd8dc3f.jpg
+b'Hardship',b'Isidre Nonell',b'Hardship',,https://az334033.vo.msecnd.net/images-7/hardship-isidre-nonell-099091a7.jpg
+b'Untitled',b'Ramon Casas i Carb\xc3\xb3',b'Untitled',b'ES',https://az333959.vo.msecnd.net/images-5/untitled-ramon-casas-i-carbo-643c88f6.jpg
+b'Self-portrait',b'Ramon Casas i Carb\xc3\xb3',b'Self-portrait',b'ES',https://az334033.vo.msecnd.net/images-0/self-portrait-ramon-casas-i-carbo-051d51aa.jpg
+b'Martyrdom of Saint Lucy',b'Bernat Martorell',b'Lucy',,https://az334033.vo.msecnd.net/images-3/martyrdom-of-saint-lucy-bernat-martorell-519d1736.jpg
+b'Virgin and Child',b'Pietro Perugino',b'Child',b'IT',https://az334034.vo.msecnd.net/images-6/virgin-and-child-pietro-perugino-8805b236.jpg
+b'Self-portrait with Cap',b'Francisco Gimeno Arasa',b'Cap',,https://az333959.vo.msecnd.net/images-2/self-portrait-with-cap-francisco-gimeno-arasa-42741262.jpg
+b'Untitled',b'Salomon van Ruysdael',b'Untitled',b'NL',https://az333960.vo.msecnd.net/images-1/untitled-salomon-van-ruysdael-567e0e8f.jpg
+b'Paintings from Arlanza',b'Anonymous',b'1210',,https://az333959.vo.msecnd.net/images-3/paintings-from-arlanza-anonymous-1210-ef2c539d.jpg
+b'Portrait of the Sculptor Jeroni Su\xc3\xb1ol',b'Mari\xc3\xa0 Fortuny',b'Su\xc3\xb1ol',b'ES',https://az334034.vo.msecnd.net/images-3/portrait-of-the-sculptor-jeroni-sunol-maria-fortuny-b8f61de5.jpg
+b'Apocalyptic Virgin and Saint Vincent Ferrer with two Donors',b'Pedro Garc\xc3\xada de Benavarre',b'Donors',,https://az333960.vo.msecnd.net/images-7/apocalyptic-virgin-and-saint-vincent-ferrer-with-two-donors-pedro-garcia-de-benavarre-d5302d6b.jpg
+|b'Lady Georgiana Poyntz, Countess Spencer [?]'|,b'Thomas Gainsborough',b'[?]',b'GB',https://az334034.vo.msecnd.net/images-0/lady-georgiana-poyntz-countess-spencer-thomas-gainsborough-b2a08710.jpg
+b'The Landing Stage',b'Santiago Rusi\xc3\xb1ol',b'Stage',b'ES',https://az334033.vo.msecnd.net/images-0/the-landing-stage-santiago-rusinol-b1d6d794.jpg
+b'Studio Interior',b'Ramon Casas i Carb\xc3\xb3',b'1883',b'ES',https://az333960.vo.msecnd.net/images-1/studio-interior-ramon-casas-i-carbo-1883-fa6f1739.jpg
+b'Portici Landscape',b'Mari\xc3\xa0 Fortuny',b'1874',b'ES',https://az333959.vo.msecnd.net/images-0/portici-landscape-maria-fortuny-1874-92b535ef.jpg
+b'Saint John the Evangelist',b'Mateo Cerezo',b'Evangelist',,https://az334033.vo.msecnd.net/images-9/saint-john-the-evangelist-mateo-cerezo-77e8d6ef.jpg
+b'Abraham',b'Joan Gasc\xc3\xb3',b'Abraham',,https://az334033.vo.msecnd.net/images-7/abraham-joan-gasco-fd750eee.jpg
+b'Portrait of a Boy',b'Santiago Rusi\xc3\xb1ol',b'Boy',b'ES',https://az333960.vo.msecnd.net/images-6/portrait-of-a-boy-santiago-rusinol-72cd120c.jpg
+b'View of Toledo',b'Aureliano de Beruete',b'Toledo',,https://az333959.vo.msecnd.net/images-4/view-of-toledo-aureliano-de-beruete-036cf28b.jpg
+b'Portrait of Charles II',b'Claudio Coello',b'II',,https://az333959.vo.msecnd.net/images-6/portrait-of-charles-ii-claudio-coello-1f5d52a4.jpg
+b'Altarpiece of Saint Anthony the Abbot',b'Master of Rubi\xc3\xb3',b'Abbot',,https://az333960.vo.msecnd.net/images-6/altarpiece-of-saint-anthony-the-abbot-master-of-rubio-37045394.jpg
+b'Still Life',b'Isidre Nonell',b'Life',,https://az334033.vo.msecnd.net/images-6/still-life-isidre-nonell-1-62588174.jpg
+b'Calvary',b'Jaume Huguet',b'Calvary',,https://az334033.vo.msecnd.net/images-0/calvary-jaume-huguet-efc29a60.jpg
+b'La Butte',b'Santiago Rusi\xc3\xb1ol',b'Butte',b'ES',https://az333960.vo.msecnd.net/images-0/la-butte-santiago-rusinol-f3a9a0ec.jpg
+b'El Bornet',b'Ramon Mart\xc3\xad Alsina',b'Bornet',,https://az333960.vo.msecnd.net/images-6/el-bornet-ramon-marti-alsina-599926c0.jpg
+b'Autumn',b'Jean-Baptiste Pater',b'Autumn',,https://az333959.vo.msecnd.net/images-2/autumn-jean-baptiste-pater-95c65931.jpg
+b'Untitled',b'Bernat Martorell',b'Untitled',,https://az334033.vo.msecnd.net/images-2/untitled-bernat-martorell-4-21e4ad1c.jpg
+b'Isaiah',b'Joan Gasc\xc3\xb3',b'Isaiah',,https://az333960.vo.msecnd.net/images-7/isaiah-joan-gasco-de6d6f6e.jpg
+b'Study',b'Ramon Casas i Carb\xc3\xb3',b'Study',b'ES',https://az334033.vo.msecnd.net/images-9/study-ramon-casas-i-carbo-dbf151ea.jpg
+b'Young Woman Sleeping',b'Jean-Baptiste Santerre',b'Sleeping',,https://az333960.vo.msecnd.net/images-2/young-woman-sleeping-jean-baptiste-santerre-e944212e.jpg
+b'Saint Vincent before Dacian',b'Jaume Huguet',b'Dacian',,https://az334034.vo.msecnd.net/images-8/saint-vincent-before-dacian-jaume-huguet-3e3b61a6.jpg
+b'Flagellation of Christ',b'Pere Seraf\xc3\xad',b'Christ',,https://az334034.vo.msecnd.net/images-0/flagellation-of-christ-pere-serafi-aca274e2.jpg
+b'Saint John the Evangelist',b'Bernardo Cavallino',b'Evangelist',,https://az334034.vo.msecnd.net/images-7/saint-john-the-evangelist-bernardo-cavallino-96822423.jpg
+|b'Basque Celebration (dance at El Antiguo, San Sebasti\xc3\xa1n)'|,b'Dar\xc3\xado de Regoyos',b'Sebasti\xc3\xa1n)',,https://az333960.vo.msecnd.net/images-2/basque-celebration-dance-at-el-antiguo-san-sebastian-dario-de-regoyos-39fe9009.jpg
+b'The Angel Freeing Saint Peter',b'Francisco Rizi',b'Peter',b'ES',https://az333959.vo.msecnd.net/images-8/the-angel-freeing-saint-peter-francisco-rizi-97d8bcfe.jpg
+b'Portrait of a Woman of the Reuss Family',b'Wolf Huber',b'Family',,https://az334034.vo.msecnd.net/images-2/portrait-of-a-woman-of-the-reuss-family-wolf-huber-1b371729.jpg
+b'Saint Lawrence',b'Bonanat Zaortiga the Elder',b'Lawrence',,https://az334034.vo.msecnd.net/images-5/saint-lawrence-bonanat-zaortiga-the-elder-65377491.jpg
+b'Landscape with Woods',b'Llu\xc3\xads Rigalt',b'1866',,https://az333960.vo.msecnd.net/images-0/landscape-with-woods-lluis-rigalt-1866-3017e843.jpg
+|b'Saint John the Baptist, Saint Mary Magdalene, Saint James...'|,b'Pere Serra',b'James...',,https://az333960.vo.msecnd.net/images-3/saint-john-the-baptist-saint-mary-magdalene-saint-james-the-minor-saint-paul-pere-serra-304d0e9f.jpg
+b"A Village in L'Empord\xc3\xa0",b'Francisco Gimeno Arasa',b"L'Empord\xc3\xa0",,https://az334033.vo.msecnd.net/images-6/a-village-in-l-emporda-francisco-gimeno-arasa-4b8882ac.jpg
+b'Holy Countenance',b'Aelbrecht Bouts',b'Countenance',,https://az334034.vo.msecnd.net/images-8/holy-countenance-aelbrecht-bouts-c01d2dfc.jpg
+b'Untitled',b'Giovanni Domenico Tiepolo',b'Untitled',b'IT',https://az333959.vo.msecnd.net/images-8/untitled-giovanni-domenico-tiepolo-1-fb7ef3aa.jpg
+b'Untitled',b'Ramon Casas i Carb\xc3\xb3',b'Untitled',b'ES',https://az333959.vo.msecnd.net/images-3/untitled-ramon-casas-i-carbo-4-f0825b6e.jpg
+b'Immaculate Conception',b'Francisco de Zurbar\xc3\xa1n',b'1632',b'ES',https://az333960.vo.msecnd.net/images-4/immaculate-conception-francisco-de-zurbaran-1632-e3a05d44.jpg
+b'El xarlat\xc3\xa0',b'Giovanni Domenico Tiepolo',b'xarlat\xc3\xa0',b'IT',https://az334034.vo.msecnd.net/images-4/el-xarlata-giovanni-domenico-tiepolo-3537a4c7.jpg
+b'Pancorbo: Passing Train',b'Dar\xc3\xado de Regoyos',b'1901',,https://az333960.vo.msecnd.net/images-4/pancorbo-passing-train-dario-de-regoyos-1901-75b03fd4.jpg
+b'Untitled',b'Ramon Casas i Carb\xc3\xb3',b'1890',b'ES',https://az333959.vo.msecnd.net/images-0/untitled-ramon-casas-i-carbo-1890-74aa0391.jpg
+b'Invention of the Body of Saint Stephen',b'Verg\xc3\xb3s Group',b'Stephen',,https://az334033.vo.msecnd.net/images-7/invention-of-the-body-of-saint-stephen-vergos-group-e55cccea.jpg
+b'Chlorosis',b'Sebasti\xc3\xa0 Junyent Sans',b'Chlorosis',,https://az333959.vo.msecnd.net/images-6/chlorosis-sebastia-junyent-sans-afd1cbc9.jpg
+b'Untitled',b'Isidre Nonell',b'Untitled',,https://az333960.vo.msecnd.net/images-3/untitled-isidre-nonell-b445e6b0.jpg
+b'Stoning of Saint Stephen from Bo\xc3\xad',b'Master of Bo\xc3\xad',b'Bo\xc3\xad',,https://az333960.vo.msecnd.net/images-7/stoning-of-saint-stephen-from-boi-master-of-boi-058a4f98.jpg
+b'Untitled',b'Ramon Mart\xc3\xad Alsina',b'1891',,https://az334033.vo.msecnd.net/images-9/untitled-ramon-marti-alsina-1891-4e4074c9.jpg
+b'Saint Agnes',b'Massimo Stanzione',b'1635',,https://az334033.vo.msecnd.net/images-9/saint-agnes-massimo-stanzione-1635-40bafe8c.jpg
+b'Untitled',b'Jaume Huguet',b'Untitled',,https://az334033.vo.msecnd.net/images-4/untitled-jaume-huguet-769a665e.jpg
+b'Crucifixion of Saint Andrew',b'Llu\xc3\xads Borrass\xc3\xa0',b'Andrew',,https://az334034.vo.msecnd.net/images-0/crucifixion-of-saint-andrew-lluis-borrassa-ebd6b0a0.jpg
+b'Mural paintings from the Herrera Chapel',b'Annibale Carracci',b'Chapel',b'IT',https://az334034.vo.msecnd.net/images-1/mural-paintings-from-the-herrera-chapel-annibale-carracci-9b193fff.jpg
+b'Saint Michael the Archangel',b'Blasco de Gra\xc3\xb1\xc3\xa9n',b'Archangel',,https://az334034.vo.msecnd.net/images-1/saint-michael-the-archangel-blasco-de-granen-75979a67.jpg
+b'David',b'Joan Gasc\xc3\xb3',b'David',,https://az333960.vo.msecnd.net/images-6/david-joan-gasco-f7ce39b3.jpg
+b'Untitled',b'Bernat Martorell',b'Untitled',,https://az333959.vo.msecnd.net/images-6/untitled-bernat-martorell-3-b7204861.jpg
+b'Virgin and Saints',b'Jaume Huguet',b'Saints',,https://az333960.vo.msecnd.net/images-1/virgin-and-saints-jaume-huguet-6f6429c1.jpg
+b'Saint Martin Sharing his Cloak',b'Jaume Ferrer II',b'Cloak',,https://az334033.vo.msecnd.net/images-0/saint-martin-sharing-his-cloak-jaume-ferrer-ii-a3d90a4d.jpg
+b'Untitled',b'Francisco de Zurbar\xc3\xa1n',b'Untitled',b'ES',https://az333959.vo.msecnd.net/images-9/untitled-francisco-de-zurbaran-4-dbf30e57.jpg
+b'Untitled',b'Jacopo Bassano',b'Untitled',b'IT',https://az334033.vo.msecnd.net/images-2/untitled-jacopo-bassano-da753d9f.jpg
+b'Remains of a saint figure from Bo\xc3\xad',b'Master of Bo\xc3\xad',b'Bo\xc3\xad',,https://az334034.vo.msecnd.net/images-6/remains-of-a-saint-figure-from-boi-master-of-boi-f69aba7e.jpg
+|b'CARCOLITI, elephant and lion from Bo\xc3\xad'|,b'Master of Bo\xc3\xad',b'Bo\xc3\xad',,https://az334034.vo.msecnd.net/images-5/carcoliti-elephant-and-lion-from-boi-master-of-boi-be6cf901.jpg
+b'Calvary',b'Jaume Ferrer II',b'Calvary',,https://az334034.vo.msecnd.net/images-1/calvary-jaume-ferrer-ii-06e2fb84.jpg
+b'Imposition of the Chasuble on Saint Ildephonsus',b'Juan de Vald\xc3\xa9s Leal',b'Ildephonsus',,https://az334034.vo.msecnd.net/images-5/imposition-of-the-chasuble-on-saint-ildephonsus-juan-de-valdes-leal-e18dbe62.jpg
+b'The Triumph of Day over Night Preceded by Dawn',b'Antoni Caba',b'1882',,https://az334034.vo.msecnd.net/images-5/the-triumph-of-day-over-night-preceded-by-dawn-antoni-caba-1882-4550faa4.jpg
+b'Untitled',b'Llu\xc3\xads Borrass\xc3\xa0',b'Untitled',,https://az333960.vo.msecnd.net/images-1/untitled-lluis-borrassa-1-54f07189.jpg
+b'Landscape with Saint John the Baptist Preaching',b'Herri met de Bles',b'Preaching',,https://az333959.vo.msecnd.net/images-2/landscape-with-saint-john-the-baptist-preaching-herri-met-de-bles-43a44d02.jpg
+b'Untitled',b'Pere Serra',b'Untitled',,https://az333959.vo.msecnd.net/images-9/untitled-pere-serra-1-c65cfb50.jpg
+b'Bringer of Bad News',b'Pieter de Hooch',b'News',b'NL',https://az333959.vo.msecnd.net/images-6/bringer-of-bad-news-pieter-de-hooch-83d67891.jpg
+b'Posthumous Miracles by Saint Vincent',b'Jaume Huguet',b'Vincent',,https://az333960.vo.msecnd.net/images-8/posthumous-miracles-by-saint-vincent-jaume-huguet-63f03892.jpg
+b'On Campaign',b'Santiago Rusi\xc3\xb1ol',b'Campaign',b'ES',https://az333959.vo.msecnd.net/images-8/on-campaign-santiago-rusinol-f9963ec6.jpg
+b'Princess Eudoxia before the Tomb of Saint Stephen',b'Verg\xc3\xb3s Group',b'Stephen',,https://az334033.vo.msecnd.net/images-6/princess-eudoxia-before-the-tomb-of-saint-stephen-vergos-group-1c0ee0f2.jpg
+b'Saint Francis and Saint Clare at Supper in the Convent of...',b'Antoni Viladomat Y Manalt',b'of...',,https://az333959.vo.msecnd.net/images-3/saint-francis-and-saint-clare-at-supper-in-the-convent-of-saint-damian-antoni-viladomat-y-manalt-e141b37a.jpg
+b'Saint Paul',b'Annibale Carracci',b'Paul',b'IT',https://az334033.vo.msecnd.net/images-5/saint-paul-annibale-carracci-0c0e244b.jpg
+b'Virgin and Child on the Throne',b'Neri di Bicci',b'Throne',,https://az334033.vo.msecnd.net/images-0/virgin-and-child-on-the-throne-neri-di-bicci-601b60d0.jpg
+b'Saint Martin Sharing his Cloak',b'Blasco de Gra\xc3\xb1\xc3\xa9n',b'Cloak',,https://az333959.vo.msecnd.net/images-8/saint-martin-sharing-his-cloak-blasco-de-granen-21c0d126.jpg
+b'Assumption of the Virgin',b'Annibale Carracci',b'Virgin',b'IT',https://az334033.vo.msecnd.net/images-6/assumption-of-the-virgin-annibale-carracci-d6e3332b.jpg
+b'Altarpiece of Saint Stephen',b'Joan Gasc\xc3\xb3',b'Stephen',,https://az333959.vo.msecnd.net/images-9/altarpiece-of-saint-stephen-joan-gasco-570e1fd8.png
+b'Untitled',b'Santiago Rusi\xc3\xb1ol',b'Untitled',b'ES',https://az334034.vo.msecnd.net/images-7/untitled-santiago-rusinol-2-ee4c8ef1.jpg
+b'Saint Stephen',b'Bernat Martorell',b'Stephen',,https://az333959.vo.msecnd.net/images-6/saint-stephen-bernat-martorell-32fa00c5.jpg
+|b'Saint Peter, Saint Claire, Saint James the Great, Saint...'|,b'Pere Serra',b'Saint...',,https://az333960.vo.msecnd.net/images-9/saint-peter-saint-claire-saint-james-the-great-saint-john-the-evangelist-pere-serra-0575e5a5.jpg
+b'Untitled',b'Lucas Cranach the Elder',b'Untitled',b'DE',https://az334034.vo.msecnd.net/images-7/untitled-lucas-cranach-the-elder-9-43d20224.jpg
+b'Altar frontal from Avi\xc3\xa0',b'Anonymous',b'1200',,https://az333959.vo.msecnd.net/images-6/altar-frontal-from-avia-anonymous-1200-b248fa6f.jpg
+b'Altarpiece of the Saints John',b'Bernat Martorell',b'1435',,https://az334033.vo.msecnd.net/images-6/altarpiece-of-the-saints-john-bernat-martorell-1435-88133273.jpg
+b'Portrait of a Woman with Attributes of Diana',b'Pere Crusells',b'1725',,https://az334034.vo.msecnd.net/images-0/portrait-of-a-woman-with-attributes-of-diana-pere-crusells-1725-75c8d88c.jpg
+b'Reading',b'Joan Llimona',b'1891',,https://az334034.vo.msecnd.net/images-4/reading-joan-llimona-1891-42ad417f.jpg
+b'Untitled',b'Ramon Casas i Carb\xc3\xb3',b'1883',b'ES',https://az333960.vo.msecnd.net/images-1/untitled-ramon-casas-i-carbo-1883-e83ed06c.jpg
+b'Birth of the Virgin',b'Pedro Garc\xc3\xada de Benavarre',b'Virgin',,https://az333960.vo.msecnd.net/images-0/birth-of-the-virgin-pedro-garcia-de-benavarre-0f8e285b.jpg
+b'Ruins of the Palace',b'Ramon Mart\xc3\xad Alsina',b'Palace',,https://az334034.vo.msecnd.net/images-1/ruins-of-the-palace-ramon-marti-alsina-c59bb6ac.jpg
+b'Children Begging',b'Anonymous',b'Begging',,https://az334034.vo.msecnd.net/images-9/children-begging-anonymous-ee33fbda.jpg
+b'Still Life with Onions and Herring',b'Isidre Nonell',b'Herring',,https://az333960.vo.msecnd.net/images-3/still-life-with-onions-and-herring-isidre-nonell-703a55a1.jpg
+b'Untitled',b'Anonymous',b'1459',,https://az334033.vo.msecnd.net/images-1/untitled-anonymous-1459-9162ae86.jpg
+b'Miracle of the Roses',b'Annibale Carracci',b'Roses',b'IT',https://az333959.vo.msecnd.net/images-0/miracle-of-the-roses-annibale-carracci-d3f123c5.jpg
+b'Untitled',b'Mari\xc3\xa0 Fortuny',b'1862',b'ES',https://az334034.vo.msecnd.net/images-3/untitled-maria-fortuny-1862-e9561d8a.jpg
+b'Winter',b'Jean-Baptiste Pater',b'Winter',,https://az334033.vo.msecnd.net/images-2/winter-jean-baptiste-pater-ae217571.jpg
+b'Cross from Bagergue',b'Anonymous',b'Bagergue',,https://az334034.vo.msecnd.net/images-3/cross-from-bagergue-anonymous-6ce90ec1.jpg
+b'The Downpour. Santo\xc3\xb1a Bay',b'Dar\xc3\xado de Regoyos',b'1900',,https://az333959.vo.msecnd.net/images-3/the-downpour-santona-bay-dario-de-regoyos-1900-bf37e112.jpg
+b'Saint Michael Vanquishes the Antichrist',b'Jaume Huguet',b'Antichrist',,https://az333959.vo.msecnd.net/images-5/saint-michael-vanquishes-the-antichrist-jaume-huguet-c48f55f9.jpg
+b'Untitled',b'Jaime Serra',b'Untitled',,https://az333960.vo.msecnd.net/images-5/untitled-jaime-serra-8de30955.jpg
+b'Virgin and Child with the Infant Saint John',b'Juan de Borgo\xc3\xb1a',b'John',,https://az333960.vo.msecnd.net/images-4/virgin-and-child-with-the-infant-saint-john-juan-de-borgona-09574770.jpg
+b'Calvary',b'Verg\xc3\xb3s Group',b'Calvary',,https://az334034.vo.msecnd.net/images-2/calvary-vergos-group-02039e3c.jpg
+b'Still Life',b'Isidre Nonell',b'Life',,https://az334034.vo.msecnd.net/images-8/still-life-isidre-nonell-9401c308.jpg
+b'Untitled',b'Lorenzo Monaco',b'Untitled',,https://az333960.vo.msecnd.net/images-4/untitled-lorenzo-monaco-b198ab21.jpg
+b'Altarpiece of the Saints John',b'Master of Santa Coloma de Queralt',b'John',,https://az334034.vo.msecnd.net/images-9/altarpiece-of-the-saints-john-master-of-santa-coloma-de-queralt-aecb1074.jpg
+b'Altarpiece of Saint Michael and Saint Peter',b'Jaume Cirera',b'Peter',,https://az334034.vo.msecnd.net/images-0/altarpiece-of-saint-michael-and-saint-peter-jaume-cirera-749350ba.jpg
+b'Still Life with Pears and Grapes',b'Luis Egidio Mel\xc3\xa9ndez',b'Grapes',,https://az334033.vo.msecnd.net/images-0/still-life-with-pears-and-grapes-luis-egidio-melendez-087b9336.jpg
+b'Born Vell',b'Ramon Mart\xc3\xad Alsina',b'Vell',,https://az333959.vo.msecnd.net/images-5/born-vell-ramon-marti-alsina-75b31a89.jpg
+b'La Toilette',b'Ricard Canals',b'Toilette',,https://az333960.vo.msecnd.net/images-2/la-toilette-ricard-canals-861614d4.jpg
+b'View of Barcelona from a Rooftop in Riera de Sant Joan',b'Ramon Mart\xc3\xad Alsina',b'1889',,https://az334033.vo.msecnd.net/images-9/view-of-barcelona-from-a-rooftop-in-riera-de-sant-joan-ramon-marti-alsina-1889-122a9430.jpg
+b'Adoration of the Virgin and Child by Saint John the...',b'Gherardo Starnina',b'the...',,https://az333960.vo.msecnd.net/images-3/adoration-of-the-virgin-and-child-by-saint-john-the-baptist-and-saint-catherine-gherardo-starnina-d0da24fb.jpg
+b'Profane paintings from Sigena: Knights in battle and...',b'Anonymous',b'and...',,https://az333960.vo.msecnd.net/images-9/profane-paintings-from-sigena-knights-in-battle-and-soldier-attacked-by-a-lion-anonymous-4582ec55.jpg
+b'Ecce Homo',b'Luis de Morales',b'Homo',,https://az334033.vo.msecnd.net/images-3/ecce-homo-luis-de-morales-87fb5464.jpg
+b'Saint Catherine and Saint Clare',b'Francesco del Cossa',b'Clare',,https://az334034.vo.msecnd.net/images-5/saint-catherine-and-saint-clare-francesco-del-cossa-53f5ae68.jpg
+b'Epiphany',b'Anonymous',b'Epiphany',,https://az333960.vo.msecnd.net/images-3/epiphany-anonymous-86005a1c.jpg
+|b'Still Life with Grapes, Figs and Pumpkin'|,b'Michele Pace del Campidoglio',b'Pumpkin',,https://az334034.vo.msecnd.net/images-6/still-life-with-grapes-figs-and-pumpkin-michele-pace-del-campidoglio-f7542137.jpg
+|b'Portrait of Llu\xc3\xafsa Dulce i Tresserra, Marquise of...'|,b'Antoni Caba',b'of...',,https://az334034.vo.msecnd.net/images-9/portrait-of-lluisa-dulce-i-tresserra-marquise-of-castellflorite-antoni-caba-228a476e.jpg
+b'Still Life',b'Francisco Lacoma y Fontanet',b'Life',,https://az334033.vo.msecnd.net/images-1/still-life-francisco-lacoma-y-fontanet-0a5bc2fa.jpg
+b'Untitled',b'Anonymous',b'Untitled',,https://az333960.vo.msecnd.net/images-5/untitled-anonymous-33-196046be.jpg
+b'Apparition of Saint Didacus above his sepulchre',b'Annibale Carracci',b'sepulchre',b'IT',https://az334033.vo.msecnd.net/images-4/apparition-of-saint-didacus-above-his-sepulchre-annibale-carracci-12e8c3a4.jpg
+b'Sick Child',b'Ricard Canals',b'Child',,https://az333959.vo.msecnd.net/images-2/sick-child-ricard-canals-de0ac75e.jpg
+b'The Great Day of Girona',b'Ramon Mart\xc3\xad Alsina',b'1863',,https://az333959.vo.msecnd.net/images-6/the-great-day-of-girona-ramon-marti-alsina-1863-d5ce6edb.jpg
+b'Untitled',b'Master of Soriguerola',b'1290',,https://az334034.vo.msecnd.net/images-7/untitled-master-of-soriguerola-1290-e3572759.jpg
+b'Untitled',b'Ramon Casas i Carb\xc3\xb3',b'Untitled',b'ES',https://az333959.vo.msecnd.net/images-5/untitled-ramon-casas-i-carbo-8-25fd07d3.jpg
+b'Saint John the Evangelist',b'Juan de Vald\xc3\xa9s Leal',b'Evangelist',,https://az334034.vo.msecnd.net/images-5/saint-john-the-evangelist-juan-de-valdes-leal-d570de1a.jpg
+b'Saint Francis of Assisi',b'Anonymous',b'Assisi',,https://az334034.vo.msecnd.net/images-9/saint-francis-of-assisi-anonymous-7a4aa389.jpg
+b'Untitled',b'Pedro Garc\xc3\xada de Benavarre',b'Untitled',,https://az333960.vo.msecnd.net/images-1/untitled-pedro-garcia-de-benavarre-ee86d879.jpg
+b'Untitled',b'Ramon Mart\xc3\xad Alsina',b'1884',,https://az334033.vo.msecnd.net/images-3/untitled-ramon-marti-alsina-1884-1-f5ef43be.jpg
+b'Consecration of Saint Augustine',b'Jaume Huguet',b'Augustine',,https://az334033.vo.msecnd.net/images-2/consecration-of-saint-augustine-jaume-huguet-958424b6.jpg
+b'Apostles around the Empty Sepulchre',b'Annibale Carracci',b'Sepulchre',b'IT',https://az334034.vo.msecnd.net/images-4/apostles-around-the-empty-sepulchre-annibale-carracci-fcf66568.jpg
+b'Saint Peter',b'Annibale Carracci',b'Peter',b'IT',https://az334033.vo.msecnd.net/images-4/saint-peter-annibale-carracci-670177bc.jpg
+b'Healing the Man Born Blind',b'Annibale Carracci',b'Blind',b'IT',https://az333959.vo.msecnd.net/images-7/healing-the-man-born-blind-annibale-carracci-84fd44f7.jpg
+b'Portrait of the Painter Ramon Padr\xc3\xb3',b'Antoni Caba',b'1867',,https://az334034.vo.msecnd.net/images-7/portrait-of-the-painter-ramon-padro-antoni-caba-1867-d13126de.jpg
+b"Apparition of Saint Michael at the Castle of Sant'Angelo",b'Jaume Huguet',b"Sant'Angelo",,https://az333960.vo.msecnd.net/images-0/apparition-of-saint-michael-at-the-castle-of-sant-angelo-jaume-huguet-0b2dc06a.jpg
+b'Saint Augustine washing the feet to Pilgrim Jesus',b'Pablo Verg\xc3\xb3s',b'1470',,https://az333959.vo.msecnd.net/images-1/saint-augustine-washing-the-feet-to-pilgrim-jesus-pablo-vergos-1470-48bc3836.jpg
+b'Altarpiece of Saint Peter Martyr',b'Anonymous',b'Martyr',,https://az333959.vo.msecnd.net/images-0/altarpiece-of-saint-peter-martyr-anonymous-ca59a9ae.jpg
+b'Saint Paul',b'Diego Vel\xc3\xa1zquez',b'1618',b'ES',https://az333959.vo.msecnd.net/images-9/saint-paul-diego-velazquez-1618-839dddee.jpg
+b'Pleurants',b'Anonymous',b'Pleurants',,https://az333960.vo.msecnd.net/images-4/pleurants-anonymous-fa3014fb.jpg
+b'Portrait of Jos\xc3\xa9 Mar\xc3\xada D\xc3\xadez de Aznar',b'Bernat L\xc3\xb3pez Piquer',b'1832',,https://az334033.vo.msecnd.net/images-7/portrait-of-jose-maria-diez-de-aznar-bernat-lopez-piquer-1832-b9fd82b8.jpg
+b'Untitled',b'Mari\xc3\xa0 Fortuny',b'1867',b'ES',https://az334034.vo.msecnd.net/images-9/untitled-maria-fortuny-1867-1-c2197a62.jpg
+|b'Dispute and Arrest of Saint Catherine, from the cathedral...'|,b'Anonymous',b'cathedral...',,https://az333959.vo.msecnd.net/images-1/dispute-and-arrest-of-saint-catherine-from-the-cathedral-of-la-seu-d-urgell-anonymous-d73242f9.jpg
+b'Lady and minstrel in a palace and lion attacking a...',b'Anonymous',b'a...',,https://az333960.vo.msecnd.net/images-4/lady-and-minstrel-in-a-palace-and-lion-attacking-a-soldier-profane-paintings-from-sigena-anonymous-54b471d2.jpg
+b'Portrait of a Knight of the Order of Saint John',b'Antoni Viladomat Y Manalt',b'John',,https://az334033.vo.msecnd.net/images-9/portrait-of-a-knight-of-the-order-of-saint-john-antoni-viladomat-y-manalt-e999713c.jpg
+b'Landscape',b'Llu\xc3\xads Rigalt',b'1875',,https://az334034.vo.msecnd.net/images-3/landscape-lluis-rigalt-1875-d2a616cc.jpg
+b'Young Man Leaning out of the Window',b'Llu\xc3\xads Borrass\xc3\xa0',b'Window',,https://az334034.vo.msecnd.net/images-3/young-man-leaning-out-of-the-window-lluis-borrassa-e32d5295.jpg
+b'Sketch of a Port',b'Santiago Rusi\xc3\xb1ol',b'Port',b'ES',https://az333959.vo.msecnd.net/images-3/sketch-of-a-port-santiago-rusinol-0978141a.jpg
+b'Untitled',b'Gonzalo P\xc3\xa9rez',b'Untitled',,https://az333960.vo.msecnd.net/images-8/untitled-gonzalo-perez-9524a736.jpg
+b'Untitled',b'Jaume Huguet',b'Untitled',,https://az333960.vo.msecnd.net/images-2/untitled-jaume-huguet-7-7b02ef27.png
+b'Untitled',b'Francisco de Goya',b'Untitled',b'ES',https://az333960.vo.msecnd.net/images-7/untitled-francisco-de-goya-16-8b1dffac.jpg
+b"The Painter's Family",b'Francisco Lacoma Sans',b'Family',,https://az334033.vo.msecnd.net/images-5/the-painter-s-family-francisco-lacoma-sans-ed3fb846.jpg
+b'Altar frontal from Esquius',b'Anonymous',b'Esquius',,https://az333960.vo.msecnd.net/images-9/altar-frontal-from-esquius-anonymous-5b0ab716.jpg
+b'Untitled',b'Anonymous',b'Untitled',,https://az334034.vo.msecnd.net/images-7/untitled-anonymous-207-0badd2ef.jpg
+b'Griffin from Arlanza',b'Anonymous',b'Arlanza',,https://az333960.vo.msecnd.net/images-4/griffin-from-arlanza-anonymous-53d30158.jpg
+b'Two coats of arms with three-towered castles',b'Anonymous',b'castles',,https://az334033.vo.msecnd.net/images-5/two-coats-of-arms-with-three-towered-castles-anonymous-edb92d69.jpg
+b'Untitled',b'Jaume Huguet',b'Untitled',,https://az334033.vo.msecnd.net/images-8/untitled-jaume-huguet-11-ca346e80.jpg
+b'Portrait of Octavi Carbonell i Sanroman',b'Joaqu\xc3\xadn Espalter y Rull',b'Sanroman',,https://az333960.vo.msecnd.net/images-5/portrait-of-octavi-carbonell-i-sanroman-joaquin-espalter-y-rull-b917f7ef.jpg
+b'Altar of Baltarga',b'Anonymous',b'Baltarga',,https://az334033.vo.msecnd.net/images-9/altar-of-baltarga-anonymous-1b020ad6.jpg
+b'Baldachin from Tost',b'Anonymous',b'1220',,https://az334034.vo.msecnd.net/images-8/baldachin-from-tost-anonymous-1220-2a51841d.jpg
+b'Untitled',b'Jaume Ferrer II',b'Untitled',,https://az334034.vo.msecnd.net/images-1/untitled-jaume-ferrer-ii-01ac03c0.jpg
+|b'Portrait of Louis, Count of Nassau'|,b'Adriaen Thomasz Key',b'Nassau',,https://az334034.vo.msecnd.net/images-9/portrait-of-louis-count-of-nassau-adriaen-thomasz-key-4068c727.jpg
+b'Good Friday Early Morning in Ordu\xc3\xb1a',b'Dar\xc3\xado de Regoyos',b'1903',,https://az334034.vo.msecnd.net/images-1/good-friday-early-morning-in-orduna-dario-de-regoyos-1903-1ec52e66.jpg
+b'Untitled',b'Juan Bautista Mayno',b'Untitled',,https://az333960.vo.msecnd.net/images-1/untitled-juan-bautista-mayno-95eba02d.jpg
+b'Saint Francis Receives the Stigmata',b'Antoni Viladomat Y Manalt',b'Stigmata',,https://az334033.vo.msecnd.net/images-6/saint-francis-receives-the-stigmata-antoni-viladomat-y-manalt-8b45bd05.jpg
+b'Saint Vincent Ordained by Saint Valerius',b'Jaume Huguet',b'Valerius',,https://az334034.vo.msecnd.net/images-6/saint-vincent-ordained-by-saint-valerius-jaume-huguet-3853cace.jpg
+|b'Saint Lawrence, Saint Michael and the Dragon, the...'|,b'Neri di Bicci',b'the...',,https://az334034.vo.msecnd.net/images-5/saint-lawrence-saint-michael-and-the-dragon-the-dormitio-virginis-and-the-martyrdom-of-saint-catherine-neri-di-bicci-ca02f08b.jpg
+b'Small coffered ceiling panel with coat of arms',b'Anonymous',b'arms',,https://az333959.vo.msecnd.net/images-1/small-coffered-ceiling-panel-with-coat-of-arms-anonymous-7d0cd496.jpg
+b'Saint Vincent',b'Bonanat Zaortiga the Elder',b'Vincent',,https://az334034.vo.msecnd.net/images-2/saint-vincent-bonanat-zaortiga-the-elder-07ed8a35.jpg
+b'Nativity',b'Pedro Garc\xc3\xada de Benavarre',b'Nativity',,https://az333959.vo.msecnd.net/images-2/nativity-pedro-garcia-de-benavarre-92d6bfde.jpg
+b'Distressed man from Sant Climent de Ta\xc3\xbcll',b'Master of Ta\xc3\xbcll',b'Ta\xc3\xbcll',,https://az333959.vo.msecnd.net/images-3/distressed-man-from-sant-climent-de-taull-master-of-taull-69ef11ec.jpg
+b'Reaping',b'Joaquim Vayreda',b'Reaping',,https://az333960.vo.msecnd.net/images-1/reaping-joaquim-vayreda-eeeca0b0.jpg
+b'Two-headed bird from Bo\xc3\xad',b'Master of Bo\xc3\xad',b'Bo\xc3\xad',,https://az333959.vo.msecnd.net/images-1/two-headed-bird-from-boi-master-of-boi-d56fcaaf.jpg
+b'Altarpiece of Saint Peter',b'Joan Gasc\xc3\xb3',b'Peter',,https://az334033.vo.msecnd.net/images-5/altarpiece-of-saint-peter-joan-gasco-94fd7a91.jpg
+b'Untitled',b'Master of Frankfurt',b'Untitled',,https://az334033.vo.msecnd.net/images-7/untitled-master-of-frankfurt-1-f6a93598.jpg
+b'Self-portrait',b'Antoni Caba',b'Self-portrait',,https://az333960.vo.msecnd.net/images-2/self-portrait-antoni-caba-b9bc01d2.jpg
+b'Untitled',b'Anonymous',b'Untitled',,https://az333959.vo.msecnd.net/images-9/untitled-anonymous-184-5005bb3e.jpg
+b'Untitled',b'Anonymous',b'Untitled',,https://az333960.vo.msecnd.net/images-8/untitled-anonymous-64-d6f3a0c4.jpg
+b'Procession of Schoolgirls',b'Joaquim Vayreda',b'Schoolgirls',,https://az334033.vo.msecnd.net/images-2/procession-of-schoolgirls-joaquim-vayreda-ac2f8fed.jpg
+b'Saints and minstrels from Bo\xc3\xad',b'Master of Bo\xc3\xad',b'Bo\xc3\xad',,https://az333959.vo.msecnd.net/images-8/saints-and-minstrels-from-boi-master-of-boi-6bc113d0.jpg
+b'tabla de San Domenico de Guzm\xc3\xa1n',b'Anonymous',b'1300',,https://az334033.vo.msecnd.net/images-9/tabla-de-san-domenico-de-guzman-anonymous-1300-e1054e83.jpg
+b'Awaiting the Return',b'Josep Cusachs',b'Return',,https://az334034.vo.msecnd.net/images-7/awaiting-the-return-josep-cusachs-f36a0dfc.jpg
+b'Altar frontal from Mosoll',b'Anonymous',b'Mosoll',,https://az333960.vo.msecnd.net/images-9/altar-frontal-from-mosoll-anonymous-7cfab1cf.jpg
+b'Untitled',b'Jaime Serra',b'Untitled',,https://az333959.vo.msecnd.net/images-8/untitled-jaime-serra-2-c8aad87a.jpg
+b'Old Woman with a Lamp',b'Giacomo Francesco Cipper',b'Lamp',,https://az334034.vo.msecnd.net/images-2/old-woman-with-a-lamp-giacomo-francesco-cipper-0a7652b8.jpg
+b'Saint Vincent on the Rack',b'Jaume Huguet',b'Rack',,https://az333960.vo.msecnd.net/images-4/saint-vincent-on-the-rack-jaume-huguet-3edbd485.jpg
+b'Saint Barbara',b'Anonymous',b'Barbara',,https://az333960.vo.msecnd.net/images-8/saint-barbara-anonymous-1-42d8c019.jpg
+b'Arch of the Tetramorph with Seraph and Archangel from...',b'Master of Santa Maria de Ta\xc3\xbcll',b'from...',,https://az333960.vo.msecnd.net/images-5/arch-of-the-tetramorph-with-seraph-and-archangel-from-santa-maria-de-taull-master-of-santa-maria-de-taull-34c89930.jpg
+b'Pleurants',b'Anonymous',b'Pleurants',,https://az334033.vo.msecnd.net/images-2/pleurants-anonymous-1-b46ea884.jpg
+b'Small coffered ceiling panel with mermaids',b'Anonymous',b'mermaids',,https://az333959.vo.msecnd.net/images-8/small-coffered-ceiling-panel-with-mermaids-anonymous-19eda184.jpg
+b'Moses',b'Joan Gasc\xc3\xb3',b'Moses',,https://az333960.vo.msecnd.net/images-5/moses-joan-gasco-1feda9a5.jpg
+b'Saint John the Evangelist in Patmos',b'Anonymous',b'Patmos',,https://az333959.vo.msecnd.net/images-9/saint-john-the-evangelist-in-patmos-anonymous-21703cb7.jpg
+b'Saint Didacus Preaching',b'Annibale Carracci',b'Preaching',b'IT',https://az334034.vo.msecnd.net/images-0/saint-didacus-preaching-annibale-carracci-f67c8652.jpg
+b'Triptych with the Epiphany',b'Jan van Dornicke',b'Epiphany',,https://az334033.vo.msecnd.net/images-3/triptych-with-the-epiphany-jan-van-dornicke-7c01f2ef.jpg
+b'The Consecration of Saint Augustine',b'Jaume Huguet',b'1462',,https://az333959.vo.msecnd.net/images-0/the-consecration-of-saint-augustine-jaume-huguet-1462-2c026edc.jpg
+b'Calvary and Christ in Majesty',b'Anonymous',b'Majesty',,https://az333959.vo.msecnd.net/images-1/calvary-and-christ-in-majesty-anonymous-caddff07.jpg
+b'Untitled',b'Jaume Huguet',b'Untitled',,https://az333959.vo.msecnd.net/images-8/untitled-jaume-huguet-1-ac606442.png
+b'Untitled',b'Anonymous',b'Untitled',,https://az334034.vo.msecnd.net/images-7/untitled-anonymous-24-f01e2df5.jpg
+b'Altar frontal from Tav\xc3\xa8rnoles',b'Anonymous',b'1150',,https://az334034.vo.msecnd.net/images-0/altar-frontal-from-tavernoles-anonymous-1150-a8fe6c2f.jpg
+b'Flemish Landscape',b'Carlos de Haes',b'1879',,https://az334034.vo.msecnd.net/images-4/flemish-landscape-carlos-de-haes-1879-ad4f7091.jpg
+b'Portrait of the Painter Joaquim Vayreda',b'Antoni Caba',b'1870',,https://az334034.vo.msecnd.net/images-5/portrait-of-the-painter-joaquim-vayreda-antoni-caba-1870-c0c10a22.jpg
+b'Profane paintings from Sigena: Deer eating fruit from a...',b'Anonymous',b'a...',,https://az334033.vo.msecnd.net/images-6/profane-paintings-from-sigena-deer-eating-fruit-from-a-tree-lion-holding-a-naked-man-and-dismounted-knight-kneeling-before-a-lady-on-a-throne-anonymous-e6c6c22e.jpg
+b'Profane paintings from Sigena: Knights leaving a castle...',b'Anonymous',b'castle...',,https://az334034.vo.msecnd.net/images-6/profane-paintings-from-sigena-knights-leaving-a-castle-for-battle-anonymous-90f26580.jpg
+b'Small coffered ceiling panel with striped coats of arms...',b'Anonymous',b'arms...',,https://az334033.vo.msecnd.net/images-3/small-coffered-ceiling-panel-with-striped-coats-of-arms-of-the-house-of-barcelona-and-plant-motifs-anonymous-6f68af10.jpg
+b'Pleurants',b'Anonymous',b'Pleurants',,https://az334033.vo.msecnd.net/images-1/pleurants-anonymous-2-928dbe38.jpg
+b'Coffered ceiling panel with a knight of the House of...',b'Anonymous',b'of...',,https://az334033.vo.msecnd.net/images-0/coffered-ceiling-panel-with-a-knight-of-the-house-of-anjou-struck-down-by-a-knight-with-the-coat-of-arms-of-catalonia-aragon-and-those-of-swabia-of-frederic-of-sicily-anonymous-d7ad4a45.jpg
+b'Still Life with Fruit and Goldfinch',b'Juan de Zurbar\xc3\xa1n',b'Goldfinch',,https://az334033.vo.msecnd.net/images-4/still-life-with-fruit-and-goldfinch-juan-de-zurbaran-5b1a6cf3.jpg
+b'Untitled',b'Anonymous',b'Untitled',,https://az333959.vo.msecnd.net/images-1/untitled-anonymous-99-445f2712.jpg
+b'Mary Magdalene',b'Anonymous',b'Magdalene',,https://az334034.vo.msecnd.net/images-6/mary-magdalene-anonymous-73d81c0c.jpg
+b'Untitled',b'Anonymous',b'Untitled',,https://az333959.vo.msecnd.net/images-1/untitled-anonymous-212-51f7f336.jpg
+b'Untitled',b'Antoni Viladomat Y Manalt',b'Untitled',,https://az334034.vo.msecnd.net/images-0/untitled-antoni-viladomat-y-manalt-d408ec7f.jpg
+b'Small coffered ceiling panel with castle',b'Anonymous',b'castle',,https://az333959.vo.msecnd.net/images-9/small-coffered-ceiling-panel-with-castle-anonymous-98a8064a.jpg
+b'VIPRA (dragon) and other animals from Bo\xc3\xad',b'Master of Bo\xc3\xad',b'Bo\xc3\xad',,https://az334034.vo.msecnd.net/images-4/vipra-dragon-and-other-animals-from-boi-master-of-boi-7fb31a0d.jpg
+b'Portrait of Marta Vidal Puig',b'Llu\xc3\xafsa Vidal',b'Puig',,https://az334034.vo.msecnd.net/images-7/portrait-of-marta-vidal-puig-lluisa-vidal-bb5ba19c.png
+b'Portrait of Carlota Vidal',b'Llu\xc3\xafsa Vidal',b'Vidal',,https://az333960.vo.msecnd.net/images-2/portrait-of-carlota-vidal-lluisa-vidal-77838347.jpg
+b'Pleurants',b'Anonymous',b'Pleurants',,https://az334034.vo.msecnd.net/images-7/pleurants-anonymous-3-aab120f7.jpg
+b'Annunciation of the Death; Dormition of the Virgin',b'Master of Riglos',b'Virgin',,https://az333959.vo.msecnd.net/images-4/annunciation-of-the-death-dormition-of-the-virgin-master-of-riglos-a3b85453.jpg
+b'Altarpiece of Saint Barbara',b'Gonzalo P\xc3\xa9rez',b'1410',,https://az333960.vo.msecnd.net/images-5/altarpiece-of-saint-barbara-gonzalo-perez-1410-d72ead7c.jpg
+b'Consecration inscription from Sant Climent de Ta\xc3\xbcll',b'Master of Ta\xc3\xbcll',b'Ta\xc3\xbcll',,https://az333960.vo.msecnd.net/images-6/consecration-inscription-from-sant-climent-de-taull-master-of-taull-f807c9eb.jpg
+b'Small coffered ceiling panel with scenes of gallantry and...',b'Anonymous',b'and...',,https://az334034.vo.msecnd.net/images-1/small-coffered-ceiling-panel-with-scenes-of-gallantry-and-dancing-anonymous-5f07e720.jpg
+b'Quadruped with Fleur-de-lis from Bo\xc3\xad',b'Master of Bo\xc3\xad',b'Bo\xc3\xad',,https://az334034.vo.msecnd.net/images-9/quadruped-with-fleur-de-lis-from-boi-master-of-boi-ad8613c7.jpg
+b'Small coffered ceiling panel with coat of arms and fishes...',b'Anonymous',b'fishes...',,https://az333960.vo.msecnd.net/images-0/small-coffered-ceiling-panel-with-coat-of-arms-and-fishes-devouring-plant-motifs-anonymous-a34ad7e7.jpg
+b'Epiphany',b'Fernando Gallego',b'Epiphany',,https://az333959.vo.msecnd.net/images-4/epiphany-fernando-gallego-86333769.jpg
+b'Embrace at the Golden Gate',b'Master of Retasc\xc3\xb3n',b'Gate',,https://az334034.vo.msecnd.net/images-9/embrace-at-the-golden-gate-master-of-retascon-8670d3b4.jpg
+b'Virgin and Angels',b'Pedro Garc\xc3\xada de Benavarre',b'Angels',,https://az333960.vo.msecnd.net/images-0/virgin-and-angels-pedro-garcia-de-benavarre-53148698.jpg
+b'Altar frontal from Sant Climent de Ta\xc3\xbcll',b'Anonymous',b'Ta\xc3\xbcll',,https://az333959.vo.msecnd.net/images-7/altar-frontal-from-sant-climent-de-taull-anonymous-b9463169.jpg
+b'Small coffered ceiling panel with the coat of arms of the...',b'Anonymous',b'the...',,https://az333959.vo.msecnd.net/images-3/small-coffered-ceiling-panel-with-the-coat-of-arms-of-the-caldes-family-anonymous-db252dde.jpg
+b'Untitled',b"Mestre de la Seu d'Urgell",b'Untitled',,https://az334034.vo.msecnd.net/images-9/untitled-mestre-de-la-seu-d-urgell-1-13974b70.jpg
+b'Untitled',b'Francisco Lacoma y Fontanet',b'Untitled',,https://az333960.vo.msecnd.net/images-1/untitled-francisco-lacoma-y-fontanet-9b6c0996.jpg
+|b'Triptych with Calvary, Saint Anthony the Abbot and Saint...'|,b'Master of the Von Groote Adoration',b'Saint...',,https://az333960.vo.msecnd.net/images-6/triptych-with-calvary-saint-anthony-the-abbot-and-saint-catherine-master-of-the-von-groote-adoration-a4f8dac0.jpg
+b'Untitled',b'Paolo da San Leocadio',b'Untitled',,https://az333960.vo.msecnd.net/images-8/untitled-paolo-da-san-leocadio-fc8be34b.jpg
+b'Altar frontal of Sant Pere de Bo\xc3\xad',b'Anonymous',b'Bo\xc3\xad',,https://az333960.vo.msecnd.net/images-1/altar-frontal-of-sant-pere-de-boi-anonymous-526d8d7d.jpg
+b'Self-portrait',b'Francisco Lacoma Sans',b'1805',,https://az334033.vo.msecnd.net/images-5/self-portrait-francisco-lacoma-sans-1805-db43f85c.jpg
+|b'Figures, buildings and bestiary from Bo\xc3\xad'|,b'Master of Bo\xc3\xad',b'Bo\xc3\xad',,https://az334033.vo.msecnd.net/images-1/figures-buildings-and-bestiary-from-boi-master-of-boi-6d94a412.jpg
+b'The Apostles of Argolell',b'Anonymous',b'Argolell',,https://az334034.vo.msecnd.net/images-7/the-apostles-of-argolell-anonymous-8459e5fc.jpg
+b'Untitled',b'Pedro Berruguete',b'Untitled',,https://az334034.vo.msecnd.net/images-9/untitled-pedro-berruguete-3594fc18.jpg
+b'Untitled',b'Joaquim Vayreda',b'Untitled',,https://az333959.vo.msecnd.net/images-1/untitled-joaquim-vayreda-7d501e5c.jpg
+b'Apostles from Orcau',b'Anonymous',b'Orcau',,https://az333960.vo.msecnd.net/images-6/apostles-from-orcau-anonymous-f030dbd6.jpg
+b'Small coffered ceiling panel with rampant lion',b'Anonymous',b'lion',,https://az334034.vo.msecnd.net/images-0/small-coffered-ceiling-panel-with-rampant-lion-anonymous-570ca2de.jpg
+b'Small coffered ceiling panel with fantastic animal...',b'Anonymous',b'animal...',,https://az334033.vo.msecnd.net/images-7/small-coffered-ceiling-panel-with-fantastic-animal-devouring-plant-motifs-anonymous-3f48f6de.jpg
+b'Small coffered ceiling panel with four-legged animals and...',b'Anonymous',b'and...',,https://az334034.vo.msecnd.net/images-7/small-coffered-ceiling-panel-with-four-legged-animals-and-plant-motifs-anonymous-81408a00.jpg
+b'Small coffered ceiling panel with galley',b'Anonymous',b'galley',,https://az334033.vo.msecnd.net/images-0/small-coffered-ceiling-panel-with-galley-anonymous-30777588.jpg
+b'Quadruped biting its tail from Bo\xc3\xad',b'Master of Bo\xc3\xad',b'Bo\xc3\xad',,https://az333960.vo.msecnd.net/images-9/quadruped-biting-its-tail-from-boi-master-of-boi-7558f7d3.jpg
+b'Cockerel from Sant Joan de Bo\xc3\xad',b'Master of Bo\xc3\xad',b'Bo\xc3\xad',,https://az333960.vo.msecnd.net/images-1/cockerel-from-sant-joan-de-boi-master-of-boi-3dc6723e.jpg
+|b'Small coffered ceiling panel with crosses, the emblem of...'|,b'Anonymous',b'of...',,https://az333960.vo.msecnd.net/images-5/small-coffered-ceiling-panel-with-crosses-the-emblem-of-the-cruilles-family-anonymous-b33028c4.jpg
+b'Supplicant Soul between Saint Peter and Saint Paul',b'Master of Soriguerola',b'Paul',,https://az334034.vo.msecnd.net/images-4/supplicant-soul-between-saint-peter-and-saint-paul-master-of-soriguerola-9d3c0d86.jpg
+b'Building from Arlanza',b'Anonymous',b'Arlanza',,https://az333960.vo.msecnd.net/images-2/building-from-arlanza-anonymous-d6608f6b.jpg
+b'Small coffered ceiling panel with geometric motifs',b'Anonymous',b'motifs',,https://az333959.vo.msecnd.net/images-6/small-coffered-ceiling-panel-with-geometric-motifs-anonymous-0d477536.jpg
+b'Small coffered ceiling panel with allegorical scenes on...',b'Anonymous',b'on...',,https://az334034.vo.msecnd.net/images-5/small-coffered-ceiling-panel-with-allegorical-scenes-on-the-work-of-may-and-june-anonymous-3fc9fc65.jpg
+b'Landscape',b'Josep Berga i Boix',b'Landscape',,https://az334033.vo.msecnd.net/images-6/landscape-josep-berga-i-boix-9412c663.jpg
+b'A Country. Memory of the Pyrenees.',b'Jos\xc3\xa9 Armet Portanell',b'1866',,https://az334033.vo.msecnd.net/images-2/a-country-memory-of-the-pyrenees-jose-armet-portanell-1866-d3bdf71d.jpg
+b'Small coffered ceiling panel with coat of arms and...',b'Anonymous',b'and...',,https://az334033.vo.msecnd.net/images-2/small-coffered-ceiling-panel-with-coat-of-arms-and-manticores-anonymous-93b270d1.jpg
+b'Coffered ceiling panel with coats of arms of the Cardona...',b'Anonymous',b'Cardona...',,https://az334034.vo.msecnd.net/images-5/coffered-ceiling-panel-with-coats-of-arms-of-the-cardona-and-cruilles-families-anonymous-0edb3de9.jpg
+b'Saint between two towers from Bo\xc3\xad',b'Master of Bo\xc3\xad',b'Bo\xc3\xad',,https://az333960.vo.msecnd.net/images-6/saint-between-two-towers-from-boi-master-of-boi-e2700b2c.jpg
+b'The Scarecrow',b'Joaquim Vayreda',b'Scarecrow',,https://az334033.vo.msecnd.net/images-3/the-scarecrow-joaquim-vayreda-a782b9e9.jpg
+b'Untitled',b'Pedro Fern\xc3\xa1ndez de Murcia',b'Untitled',,https://az334034.vo.msecnd.net/images-2/untitled-pedro-fernandez-de-murcia-3e3d9a8e.jpg
+|b'Liturgical cabinet with the Holy Burial, Saint Agnes and...'|,b'Anonymous',b'and...',,https://az333960.vo.msecnd.net/images-9/liturgical-cabinet-with-the-holy-burial-saint-agnes-and-a-bishop-saint-anonymous-10571dc5.jpg
+b'Small coffered ceiling panel with peacocks and plant motifs',b'Anonymous',b'motifs',,https://az333960.vo.msecnd.net/images-1/small-coffered-ceiling-panel-with-peacocks-and-plant-motifs-anonymous-96887e34.jpg
+b'Small coffered ceiling panel with a dog pursuing a hare',b'Anonymous',b'hare',,https://az334034.vo.msecnd.net/images-6/small-coffered-ceiling-panel-with-a-dog-pursuing-a-hare-anonymous-7348c22c.jpg
+b'Untitled',b'Jaime Serra',b'Untitled',,https://az333959.vo.msecnd.net/images-7/untitled-jaime-serra-1-a4ca6e96.jpg
+b'Untitled',b'Ramon de Mur',b'Untitled',,https://az334033.vo.msecnd.net/images-0/untitled-ramon-de-mur-1-80567509.jpg
+b'Portrait of the Art Critic and Writer Raimon Casellas',b'Llu\xc3\xads Graner',b'1894',,https://az333959.vo.msecnd.net/images-5/portrait-of-the-art-critic-and-writer-raimon-casellas-lluis-graner-1894-2535167a.jpg
+b'Mural paintings of the Conquest of Majorca',b'Master of the Conquest of Majorca',b'Majorca',,https://az334034.vo.msecnd.net/images-7/mural-paintings-of-the-conquest-of-majorca-master-of-the-conquest-of-majorca-2318d87d.jpg
+b'The Kiss of Judas',b'Master of Retasc\xc3\xb3n',b'Judas',,https://az333959.vo.msecnd.net/images-3/the-kiss-of-judas-master-of-retascon-0427f7b4.jpg
+b'Untitled',b'Antoni Viladomat Y Manalt',b'1724',,https://az333960.vo.msecnd.net/images-0/untitled-antoni-viladomat-y-manalt-1724-a4cff2f3.jpg
+b'Autumn',b'Antoni Viladomat Y Manalt',b'Autumn',,https://az334033.vo.msecnd.net/images-0/autumn-antoni-viladomat-y-manalt-0793bb14.jpg
+b'Mural paintings with Old Testament scenes',b'Anonymous',b'scenes',,https://az333960.vo.msecnd.net/images-1/mural-paintings-with-old-testament-scenes-anonymous-7a9628de.jpg
+b'Untitled',b'Anonymous',b'Untitled',,https://az334034.vo.msecnd.net/images-1/untitled-anonymous-66-775f312b.jpg
+|b'Still Life with Vegetables, Turkey, other Fowl and Wafers'|,b'Antoni Viladomat Y Manalt',b'Wafers',,https://az334034.vo.msecnd.net/images-8/still-life-with-vegetables-turkey-other-fowl-and-wafers-antoni-viladomat-y-manalt-01f09bc2.jpg
+b'Coffered ceiling panel with plant motifs',b'Anonymous',b'motifs',,https://az333959.vo.msecnd.net/images-6/coffered-ceiling-panel-with-plant-motifs-anonymous-d8030b7c.jpg
+b'Remains of a quadruped from Bo\xc3\xad',b'Master of Bo\xc3\xad',b'Bo\xc3\xad',,https://az334034.vo.msecnd.net/images-2/remains-of-a-quadruped-from-boi-master-of-boi-2c2dd2b6.jpg
+b'Part of an Italian Crucifix',b'Anonymous',b'Crucifix',,https://az334033.vo.msecnd.net/images-0/part-of-an-italian-crucifix-anonymous-5f26b1a7.jpg
+b'Border and fantastic animal from Arlanza',b'Anonymous',b'Arlanza',,https://az333959.vo.msecnd.net/images-0/border-and-fantastic-animal-from-arlanza-anonymous-811735ca.jpg
+b'Untitled',b"Mestre de la Seu d'Urgell",b'Untitled',,https://az333959.vo.msecnd.net/images-2/untitled-mestre-de-la-seu-d-urgell-2-bb4f7ed9.jpg
+b'Coffered ceiling panel with palm leaf and interlacing motifs',b'Anonymous',b'motifs',,https://az334034.vo.msecnd.net/images-8/coffered-ceiling-panel-with-palm-leaf-and-interlacing-motifs-anonymous-01a22ffe.jpg
+b'Altar from Tav\xc3\xa8rnoles',b'Anonymous',b'Tav\xc3\xa8rnoles',,https://az333959.vo.msecnd.net/images-5/altar-from-tavernoles-anonymous-7bba594f.jpg
+b'Small coffered ceiling panel with confronted birds',b'Anonymous',b'birds',,https://az334033.vo.msecnd.net/images-4/small-coffered-ceiling-panel-with-confronted-birds-anonymous-3a66b3dc.jpg
+b'Inscription S(ANCTV)S MARTINVS from Bo\xc3\xad',b'Master of Bo\xc3\xad',b'Bo\xc3\xad',,https://az334034.vo.msecnd.net/images-0/inscription-s-anctv-s-martinvs-from-boi-master-of-boi-903426fe.jpg
+|b'Coffered ceiling panel with knights, galleys and a boat...'|,b'Anonymous',b'boat...',,https://az334034.vo.msecnd.net/images-1/coffered-ceiling-panel-with-knights-galleys-and-a-boat-with-a-high-gunwale-anonymous-c7463d8f.jpg
+b'Animals face to face and zig-zag pattern from Bo\xc3\xad',b'Master of Bo\xc3\xad',b'Bo\xc3\xad',,https://az334033.vo.msecnd.net/images-7/animals-face-to-face-and-zig-zag-pattern-from-boi-master-of-boi-c28f447b.jpg
+|b'Saints Apollonia, Lucy and Barbara and another Holy Martyr'|,b'Andr\xc3\xa9s de Melgar',b'Martyr',,https://az333959.vo.msecnd.net/images-4/saints-apollonia-lucy-and-barbara-and-another-holy-martyr-andres-de-melgar-0caf7a95.jpg
+b'Landscape',b'Francesc Torrescassana Sallar\xc3\xa9s',b'1864',,https://az333959.vo.msecnd.net/images-6/landscape-francesc-torrescassana-sallares-1864-5df05441.jpg
+b'Small coffered ceiling panel with a cross and coats of...',b'Anonymous',b'of...',,https://az333960.vo.msecnd.net/images-0/small-coffered-ceiling-panel-with-a-cross-and-coats-of-arms-in-lozenge-form-anonymous-2af89b35.jpg
+b"Plant border from Sant Esteve d'Andorra",b"Master of Sant Esteve d'Andorra",b"d'Andorra",,https://az334034.vo.msecnd.net/images-7/plant-border-from-sant-esteve-d-andorra-master-of-sant-esteve-d-andorra-689513a9.jpg
+b'The Beginning of Spring',b'Joaquim Vayreda',b'1877',,https://az334034.vo.msecnd.net/images-6/the-beginning-of-spring-joaquim-vayreda-1877-99fc05ce.jpg
+b'Small coffered ceiling panel with plant motifs',b'Anonymous',b'motifs',,https://az334034.vo.msecnd.net/images-9/small-coffered-ceiling-panel-with-plant-motifs-anonymous-99f3e16c.jpg
+b'Winter',b'Antoni Viladomat Y Manalt',b'Winter',,https://az334033.vo.msecnd.net/images-1/winter-antoni-viladomat-y-manalt-792b0141.jpg
+b'James I the Conqueror',b'Jaume Mateu',b'1427',,https://az334033.vo.msecnd.net/images-7/james-i-the-conqueror-jaume-mateu-1427-4ac89f7b.jpg
+b'Coffered ceiling panel with palm leaf and birds',b'Anonymous',b'birds',,https://az334033.vo.msecnd.net/images-0/coffered-ceiling-panel-with-palm-leaf-and-birds-anonymous-88c7fa87.jpg
+b'Portrait of Senyora Anita',b'Benet Mercad\xc3\xa9',b'Anita',,https://az333959.vo.msecnd.net/images-4/portrait-of-senyora-anita-benet-mercade-2141202c.jpg
+b'Coffered ceiling panel with the coats of arms of the...',b'Anonymous',b'the...',,https://az333959.vo.msecnd.net/images-8/coffered-ceiling-panel-with-the-coats-of-arms-of-the-cardona-family-and-of-the-count-of-empuries-anonymous-f19a89c4.jpg
+b'Coffered ceiling panel with coat of arms and griffins...',b'Anonymous',b'griffins...',,https://az334034.vo.msecnd.net/images-8/coffered-ceiling-panel-with-coat-of-arms-and-griffins-rampant-anonymous-26d2928b.jpg
+b'Falconer from Bo\xc3\xad',b'Master of Bo\xc3\xad',b'Bo\xc3\xad',,https://az334034.vo.msecnd.net/images-6/falconer-from-boi-master-of-boi-4a31686a.jpg
+b'De soir\xc3\xa9e',b'Rom\xc3\xa0 Ribera',b'soir\xc3\xa9e',,https://az334034.vo.msecnd.net/images-7/de-soiree-roma-ribera-18f667c4.jpg
+b'Untitled',b'Anonymous',b'Untitled',,https://az333960.vo.msecnd.net/images-0/untitled-anonymous-209-91fa6f86.jpg
+b'Carmen Basti\xc3\xa1n',b'Mari\xc3\xa0 Fortuny',b'1871',b'ES',https://az334033.vo.msecnd.net/images-0/carmen-bastian-maria-fortuny-1871-245b7d60.jpg
+b'Altar from Sant Rom\xc3\xa0 de Vila',b'Anonymous',b'Vila',,https://az333960.vo.msecnd.net/images-9/altar-from-sant-roma-de-vila-anonymous-3a47be5a.jpg
+b'Lame man and sinner from Bo\xc3\xad',b'Master of Bo\xc3\xad',b'Bo\xc3\xad',,https://az334033.vo.msecnd.net/images-9/lame-man-and-sinner-from-boi-master-of-boi-775b09bb.jpg
+b'Untitled',b'Pelegr\xc3\xad Clav\xc3\xa9',b'Untitled',,https://az334034.vo.msecnd.net/images-0/untitled-pelegri-clave-dc6b843a.jpg
+|b'Philip III, Prince'|,b'Juan Pantoja de la Cruz',b'Prince',,https://az333959.vo.msecnd.net/images-1/philip-iii-prince-juan-pantoja-de-la-cruz-fcd6f292.jpg
+b'Cellar Interior',b'Pieter Quast',b'1636',,https://az333959.vo.msecnd.net/images-0/cellar-interior-pieter-quast-1636-f66acd5a.jpg
+b'Small coffered ceiling panel with fantastic animals',b'Anonymous',b'animals',,https://az333959.vo.msecnd.net/images-3/small-coffered-ceiling-panel-with-fantastic-animals-anonymous-7de33c96.jpg
+b'Temptation of Eve',b'Cecco Bravo',b'Eve',,https://az333960.vo.msecnd.net/images-2/temptation-of-eve-cecco-bravo-04437081.jpg
+b'Annunciation',b'El Greco',b'1600',b'GR',https://az334034.vo.msecnd.net/images-8/annunciation-el-greco-1600-b3730ab4.jpg
+b'Spring',b'Antoni Viladomat Y Manalt',b'Spring',,https://az334033.vo.msecnd.net/images-1/spring-antoni-viladomat-y-manalt-fd6fddc4.jpg
+b'Coffered ceiling panel with a fight between a Christian...',b'Anonymous',b'Christian...',,https://az333959.vo.msecnd.net/images-8/coffered-ceiling-panel-with-a-fight-between-a-christian-knight-and-a-muslim-anonymous-c8c31c43.jpg
+b'Small coffered ceiling panel with plant motifs',b'Anonymous',b'motifs',,https://az333960.vo.msecnd.net/images-6/small-coffered-ceiling-panel-with-plant-motifs-anonymous-1-291f0baf.jpg
+b'Paradise and Hell from Bo\xc3\xad',b'Master of Bo\xc3\xad',b'Bo\xc3\xad',,https://az334033.vo.msecnd.net/images-7/paradise-and-hell-from-boi-master-of-boi-eac8214e.jpg
+b'Naval battle between a Christian galley and a Saracen...',b'Anonymous',b'Saracen...',,https://az334034.vo.msecnd.net/images-3/naval-battle-between-a-christian-galley-and-a-saracen-galley-profane-paintings-from-sigena-anonymous-3fdad231.jpg
+b'Coffered ceiling panel',b'Anonymous',b'panel',,https://az333960.vo.msecnd.net/images-7/coffered-ceiling-panel-anonymous-8a3a85f9.jpg
+b'Descent from the Cross',b'Anonymous',b'Cross',,https://az334033.vo.msecnd.net/images-5/descent-from-the-cross-anonymous-32552bfc.jpg
+b'Virgin and Child between Saint Peter and Saint Paul',b'Vincenzo Frediani',b'Paul',,https://az333959.vo.msecnd.net/images-3/virgin-and-child-between-saint-peter-and-saint-paul-vincenzo-frediani-ca8dbbfb.jpg
+b'Annunciation',b'Anonymous',b'Annunciation',,https://az334033.vo.msecnd.net/images-3/annunciation-anonymous-1-00573c54.jpg
+b'Coffered ceiling panel with palm leaf and fantastic animals',b'Anonymous',b'animals',,https://az334034.vo.msecnd.net/images-1/coffered-ceiling-panel-with-palm-leaf-and-fantastic-animals-anonymous-7a46e794.jpg
+b'Saint Margaret',b'Juan Rexach',b'Margaret',,https://az334034.vo.msecnd.net/images-4/saint-margaret-juan-rexach-417d59dd.jpg
+b'Extrados of an arch from Bo\xc3\xad',b'Master of Bo\xc3\xad',b'Bo\xc3\xad',,https://az333960.vo.msecnd.net/images-0/extrados-of-an-arch-from-boi-master-of-boi-478b97ba.jpg
+b'Portrait of Mari\xc3\xa0 Fortuny',b'Federico de Madrazo y Kuntz',b'Fortuny',,https://az333960.vo.msecnd.net/images-8/portrait-of-maria-fortuny-federico-de-madrazo-y-kuntz-bf39c313.jpg
+|b'Rafter with geometrical, plant, animal and heraldic motifs'|,b'Anonymous',b'motifs',,https://az334033.vo.msecnd.net/images-5/rafter-with-geometrical-plant-animal-and-heraldic-motifs-anonymous-6ff464c5.jpg
+b'Life of Saint Nicholas',b'Second Master of Bierge',b'Nicholas',,https://az334033.vo.msecnd.net/images-1/life-of-saint-nicholas-second-master-of-bierge-979ff853.jpg
+b'Altarpiece of Saint Ursula and the Eleven Thousand Virgins',b'Juan Rexach',b'1468',,https://az334034.vo.msecnd.net/images-6/altarpiece-of-saint-ursula-and-the-eleven-thousand-virgins-juan-rexach-1468-b3a627ec.jpg
+b'Annunciation',b'Andr\xc3\xa9s de Melgar',b'Annunciation',,https://az334033.vo.msecnd.net/images-4/annunciation-andres-de-melgar-2cfd9430.jpg
+b'Untitled',b'Llu\xc3\xafsa Vidal',b'1899',,https://az333960.vo.msecnd.net/images-1/untitled-lluisa-vidal-1899-4b152af3.png
+b'Window from Bo\xc3\xad',b'Master of Bo\xc3\xad',b'Bo\xc3\xad',,https://az333959.vo.msecnd.net/images-6/window-from-boi-master-of-boi-4d9fc9d6.jpg
+b'Portrait of Rosa Amouroux',b'Ricard Canals',b'Amouroux',,https://az334034.vo.msecnd.net/images-2/portrait-of-rosa-amouroux-ricard-canals-fee5f587.jpg
+b'Prophets of the triumphal arch from El Burgal',b'Master of Pedret',b'Burgal',,https://az334033.vo.msecnd.net/images-4/prophets-of-the-triumphal-arch-from-el-burgal-master-of-pedret-8cb53f4f.jpg
+b'Saint Bartholomew Exorcising',b'Master of Saint Bartholomew',b'Exorcising',,https://az333959.vo.msecnd.net/images-1/saint-bartholomew-exorcising-master-of-saint-bartholomew-8de1b441.jpg
+b'Saint Michael Weighing Souls',b'Master of Soriguerola',b'Souls',,https://az333960.vo.msecnd.net/images-3/saint-michael-weighing-souls-master-of-soriguerola-d23fc159.jpg
+b'Profane paintings from Sigena: Courtly and battle scenes',b'Anonymous',b'scenes',,https://az334034.vo.msecnd.net/images-0/profane-paintings-from-sigena-courtly-and-battle-scenes-anonymous-f9859707.jpg
+b'Window of a previous church from Sant Climent de Ta\xc3\xbcll',b'Anonymous',b'Ta\xc3\xbcll',,https://az333960.vo.msecnd.net/images-0/window-of-a-previous-church-from-sant-climent-de-taull-anonymous-120d90b1.jpg
+b'Apostles from \xc3\x80ger',b'Master of Pedret',b'1100',,https://az333959.vo.msecnd.net/images-1/apostles-from-ager-master-of-pedret-1100-9d538eae.jpg
+b'Altar frontal of Saint Christopher',b'Master of Soriguerola',b'Christopher',,https://az334033.vo.msecnd.net/images-3/altar-frontal-of-saint-christopher-master-of-soriguerola-1cc23205.jpg
+b'Self-portrait',b'Antonio Mar\xc3\xada Esquivel',b'1824',,https://az334034.vo.msecnd.net/images-8/self-portrait-antonio-maria-esquivel-1824-369f99e7.jpg
+b'Fragment of a ceiling beam with griffins facing each...',b'Anonymous',b'each...',,https://az334033.vo.msecnd.net/images-4/fragment-of-a-ceiling-beam-with-griffins-facing-each-other-plant-motifs-and-interlaced-decoration-anonymous-a21f0e99.jpg
+b'Sitges Study',b'Joan Roig Soler',b'Study',,https://az333960.vo.msecnd.net/images-5/sitges-study-joan-roig-soler-5d225cfb.jpg
+b'Dawn',b'Angelo Morbelli',b'1891',,https://az333960.vo.msecnd.net/images-2/dawn-angelo-morbelli-1891-787e8c81.jpg
+b'Altarpiece of the Passion of Christ',b'Master of Astorga',b'Christ',,https://az334033.vo.msecnd.net/images-9/altarpiece-of-the-passion-of-christ-master-of-astorga-4e964d33.jpg
+b'Altar of Santa Maria de Ta\xc3\xbcll',b'Master of the Day of Judgement',b'Ta\xc3\xbcll',,https://az333960.vo.msecnd.net/images-8/altar-of-santa-maria-de-taull-master-of-the-day-of-judgement-f4b3a373.jpg
+b'Retablo de la Epifan\xc3\xada',b'Juan Rexach',b'1469',,https://az333960.vo.msecnd.net/images-2/retablo-de-la-epifania-juan-rexach-1469-ddf9347e.jpg
+b"Woman Donor from Esterri d'\xc3\x80neu",b'Anonymous',b"d'\xc3\x80neu",,https://az334034.vo.msecnd.net/images-5/woman-donor-from-esterri-d-aneu-anonymous-1ae99492.jpg
+|b'Portrait of Louise Fran\xc3\xa7oise de Bourbon, mademoiselle de...'|,b'Fran\xc3\xa7ois de Troy',b'de...',,https://az333960.vo.msecnd.net/images-3/portrait-of-louise-francoise-de-bourbon-mademoiselle-de-nantes-francois-de-troy-85804daa.jpg
+b'Church of Cervara (Papal States)',b'Benet Mercad\xc3\xa9',b'1864',,https://az334034.vo.msecnd.net/images-1/church-of-cervara-papal-states-benet-mercade-1864-cf791031.jpg
+b'Biblical scenes from Santa Maria de Ta\xc3\xbcll',b'Master of the Day of Judgement',b'Ta\xc3\xbcll',,https://az333960.vo.msecnd.net/images-6/biblical-scenes-from-santa-maria-de-taull-master-of-the-day-of-judgement-4bb94ee2.jpg
+b'In the Bar',b'Ricard Canals',b'Bar',,https://az334033.vo.msecnd.net/images-8/in-the-bar-ricard-canals-fa85c0ee.jpg
+b'Untitled',b'Joan Mates',b'Untitled',,https://az333959.vo.msecnd.net/images-6/untitled-joan-mates-1e1868db.jpg
+b'Virgin Suckling the Child',b'Lloren\xc3\xa7 Saragoss\xc3\xa0',b'Child',,https://az334034.vo.msecnd.net/images-8/virgin-suckling-the-child-llorenc-saragossa-bb7cff4d.jpg
+b'Portrait of Rosa Amouroux',b'Ricard Canals',b'Amouroux',,https://az333959.vo.msecnd.net/images-9/portrait-of-rosa-amouroux-ricard-canals-1-353d5fe3.jpg
+b'Lassitude',b'Isidre Nonell',b'1910',,https://az334034.vo.msecnd.net/images-8/lassitude-isidre-nonell-1910-0056623c.jpg
+|b'Altarpiece of the Virgin Suckling the Child, Saint Clare...'|,b'Lloren\xc3\xa7 Saragoss\xc3\xa0',b'Clare...',,https://az334034.vo.msecnd.net/images-7/altarpiece-of-the-virgin-suckling-the-child-saint-clare-and-saint-anthony-the-abbott-llorenc-saragossa-a71a9327.jpg
+b'Panel of Saint Ursula',b'Second Master of Bierge',b'Ursula',,https://az333959.vo.msecnd.net/images-7/panel-of-saint-ursula-second-master-of-bierge-13751d27.jpg
+b'Virgin Borne to Burial',b'Second Master of Estopany\xc3\xa0',b'Burial',,https://az334033.vo.msecnd.net/images-6/virgin-borne-to-burial-second-master-of-estopanya-b0ba02b4.jpg
+|b'Still Life with Apples, Grapes and a Pot of Jam'|,b'Luis Egidio Mel\xc3\xa9ndez',b'Jam',,https://az334034.vo.msecnd.net/images-1/still-life-with-apples-grapes-and-a-pot-of-jam-luis-egidio-melendez-b07374ac.jpg
+b'Terraced Village',b'Joaquin Mir Trinxet',b'1909',,https://az334034.vo.msecnd.net/images-0/terraced-village-joaquin-mir-trinxet-1909-ba4dbf5b.jpg
+b'Everlasting Father',b'Juan Rexach',b'Father',,https://az334033.vo.msecnd.net/images-5/everlasting-father-juan-rexach-b0648376.jpg
+b"Winged Ox of Saint Luke from Sant Esteve d'Andorra",b"Master of Sant Esteve d'Andorra",b"d'Andorra",,https://az333960.vo.msecnd.net/images-8/winged-ox-of-saint-luke-from-sant-esteve-d-andorra-master-of-sant-esteve-d-andorra-1f664c8e.jpg
+b'Untitled',b'Vicente L\xc3\xb3pez y Porta\xc3\xb1a',b'Untitled',,https://az334034.vo.msecnd.net/images-3/untitled-vicente-lopez-y-portana-fb1429a6.jpg
+b'Hell from Santa Maria de Ta\xc3\xbcll',b'Master of the Day of Judgement',b'Ta\xc3\xbcll',,https://az334033.vo.msecnd.net/images-7/hell-from-santa-maria-de-taull-master-of-the-day-of-judgement-b42fc261.jpg
+b'Martyrdom of Saint John the Evangelist',b'Master of Aiguat\xc3\xa8bia',b'Evangelist',,https://az333959.vo.msecnd.net/images-2/martyrdom-of-saint-john-the-evangelist-master-of-aiguatebia-b340c9e2.jpg
+b'Holy Family with Young Saint John',b'Master of Astorga',b'John',,https://az334034.vo.msecnd.net/images-9/holy-family-with-young-saint-john-master-of-astorga-86430b1a.jpg
+b'The Day of Judgement from Santa Maria de Ta\xc3\xbcll',b'Master of the Day of Judgement',b'Ta\xc3\xbcll',,https://az333960.vo.msecnd.net/images-8/the-day-of-judgement-from-santa-maria-de-taull-master-of-the-day-of-judgement-50244630.jpg
+b"The Philistines Gouging out Samson's Eyes",b'Gioacchino Assereto',b'Eyes',,https://az333959.vo.msecnd.net/images-6/the-philistines-gouging-out-samson-s-eyes-gioacchino-assereto-141ed5da.jpg
+b'Untitled',b'Joan Antig\xc3\xb3',b'Untitled',,https://az333960.vo.msecnd.net/images-1/untitled-joan-antigo-a3811d4b.jpg
+b'Virgin of the Porziuncola',b'Master of the Porci\xc3\xbancula',b'Porziuncola',,https://az334034.vo.msecnd.net/images-7/virgin-of-the-porziuncola-master-of-the-porciuncula-21afbb1f.jpg
+b'Dormition of the Virgin',b'Second Master of Estopany\xc3\xa0',b'Virgin',,https://az333959.vo.msecnd.net/images-9/dormition-of-the-virgin-second-master-of-estopanya-4231265c.jpg
+b'Untitled',b'Master of the Antwerp Adoration',b'Untitled',,https://az333960.vo.msecnd.net/images-0/untitled-master-of-the-antwerp-adoration-701a36cc.jpg
+b'Annunciation',b'Master of the Cini Madonna',b'Annunciation',,https://az333960.vo.msecnd.net/images-5/annunciation-master-of-the-cini-madonna-5865ac4f.jpg
+b'Decorated shaft from Santa Maria de Ta\xc3\xbcll',b'Master of the Day of Judgement',b'Ta\xc3\xbcll',,https://az333959.vo.msecnd.net/images-3/decorated-shaft-from-santa-maria-de-taull-master-of-the-day-of-judgement-6f958996.jpg
+b'Annunciation',b'Francisco de Sol\xc3\xads',b'1664',,https://az334034.vo.msecnd.net/images-1/annunciation-francisco-de-solis-1664-cf5e4921.jpg
+b"Frieze with the City of Jerusalem from Sant Esteve d'Andorra",b"Master of Sant Esteve d'Andorra",b"d'Andorra",,https://az334034.vo.msecnd.net/images-0/frieze-with-the-city-of-jerusalem-from-sant-esteve-d-andorra-master-of-sant-esteve-d-andorra-744b979e.jpg
+b'Virgin Suckling the Child',b'Second Master of Estopany\xc3\xa0',b'Child',,https://az334033.vo.msecnd.net/images-9/virgin-suckling-the-child-second-master-of-estopanya-e80647f3.jpg
+b'Archangel Gabriel from an Annunciation',b'Second Master of Estopany\xc3\xa0',b'Annunciation',,https://az333960.vo.msecnd.net/images-8/archangel-gabriel-from-an-annunciation-second-master-of-estopanya-9707f6bb.jpg
+b'The Seven Liberal Arts',b'Giovanni di ser Giovanni Guidi',b'Arts',,https://az334034.vo.msecnd.net/images-9/the-seven-liberal-arts-giovanni-di-ser-giovanni-guidi-fcfd7348.jpg
+b'Mourning over the Dead Christ',b'Joan Mates',b'Christ',,https://az333959.vo.msecnd.net/images-2/mourning-over-the-dead-christ-joan-mates-7cf08b2a.jpg
+b'Decorated shaft and capital from Santa Maria de Ta\xc3\xbcll',b'Master of the Day of Judgement',b'Ta\xc3\xbcll',,https://az333959.vo.msecnd.net/images-5/decorated-shaft-and-capital-from-santa-maria-de-taull-master-of-the-day-of-judgement-366e201a.jpg
+b'Dormition of the Virgin',b'Master of the Cini Madonna',b'Virgin',,https://az333960.vo.msecnd.net/images-5/dormition-of-the-virgin-master-of-the-cini-madonna-2e9a1dd4.jpg
+b'Peacocks drinking from a chalice from Santa Maria de Ta\xc3\xbcll',b'Master of Santa Maria de Ta\xc3\xbcll',b'Ta\xc3\xbcll',,https://az334033.vo.msecnd.net/images-0/peacocks-drinking-from-a-chalice-from-santa-maria-de-taull-master-of-santa-maria-de-taull-477abdc6.jpg
+b'Lamb of God and saints from Santa Maria de Ta\xc3\xbcll',b'Master of the Day of Judgement',b'Ta\xc3\xbcll',,https://az334034.vo.msecnd.net/images-8/lamb-of-god-and-saints-from-santa-maria-de-taull-master-of-the-day-of-judgement-6ab6cc2a.jpg
+b'Man with two cups from Santa Maria de Ta\xc3\xbcll',b'Master of the Day of Judgement',b'Ta\xc3\xbcll',,https://az333959.vo.msecnd.net/images-4/man-with-two-cups-from-santa-maria-de-taull-master-of-the-day-of-judgement-be637f23.jpg
+b'Untitled',b'Joan Mates',b'Untitled',,https://az334033.vo.msecnd.net/images-9/untitled-joan-mates-1-fdfc55b2.jpg
+b'Remains of a figure from Santa Maria de Ta\xc3\xbcll',b'Master of Santa Maria de Ta\xc3\xbcll',b'Ta\xc3\xbcll',,https://az334034.vo.msecnd.net/images-0/remains-of-a-figure-from-santa-maria-de-taull-master-of-santa-maria-de-taull-3d669a92.jpg
+b'Resurrection of Christ',b'Guerau Gener',b'Christ',,https://az334033.vo.msecnd.net/images-0/resurrection-of-christ-guerau-gener-8aa56c3c.jpg
+b'Saint Sebastian',b'Jaume Ferrer II',b'1450',,https://az334033.vo.msecnd.net/images-0/saint-sebastian-jaume-ferrer-ii-1450-f80c86ee.jpg
+b'Untitled',b'Juan de Zurbar\xc3\xa1n',b'Untitled',,https://az334034.vo.msecnd.net/images-3/untitled-juan-de-zurbaran-726cc252.jpg
+b'Dream',b'Joan Brull Vinyoles',b'1905',b'ES',https://az334034.vo.msecnd.net/images-7/dream-joan-brull-vinyoles-1905-bf8f97b0.jpg
+b'Saint Nicholas from Santa Maria de Ta\xc3\xbcll',b'Master of the Day of Judgement',b'Ta\xc3\xbcll',,https://az333960.vo.msecnd.net/images-1/saint-nicholas-from-santa-maria-de-taull-master-of-the-day-of-judgement-7dfca847.jpg
+b'Burial of Fortuny',b'Ram\xc3\xb3n Tusquets Maignon',b'1874',,https://az334033.vo.msecnd.net/images-4/burial-of-fortuny-ramon-tusquets-maignon-1874-e1d5966c.jpg
+b'Untitled',b'Joan Brull Vinyoles',b'1905',b'ES',https://az334033.vo.msecnd.net/images-7/untitled-joan-brull-vinyoles-1905-3475f49a.jpg
+b'Saint Clement from Santa Maria de Ta\xc3\xbcll',b'Master of the Day of Judgement',b'Ta\xc3\xbcll',,https://az334033.vo.msecnd.net/images-6/saint-clement-from-santa-maria-de-taull-master-of-the-day-of-judgement-13914bbb.jpg
+b'Portrait of a Young Man',b'Willem Drost',b'Man',,https://az333960.vo.msecnd.net/images-4/portrait-of-a-young-man-willem-drost-a9dd1167.jpg
+b"Saint John the Evangelist's Dream at Patmos",b'Master of Aiguat\xc3\xa8bia',b'Patmos',,https://az333960.vo.msecnd.net/images-7/saint-john-the-evangelist-s-dream-at-patmos-master-of-aiguatebia-771756fc.jpg
+b'Portrait of Pilar',b'Rafael Barradas',b'1919',,https://az334033.vo.msecnd.net/images-4/portrait-of-pilar-rafael-barradas-1919-91aa090a.jpg
+b'Self-portrait',b'Manuel Bayeu',b'Self-portrait',,https://az333959.vo.msecnd.net/images-6/self-portrait-manuel-bayeu-4bc76171.jpg
+b'Untitled',b"Mestre d'Estopany\xc3\xa0",b'Untitled',,https://az333960.vo.msecnd.net/images-1/untitled-mestre-d-estopanya-16daac69.jpg
+|b"White 'Masia' (Bunyola, Majorca)"|,b'Santiago Rusi\xc3\xb1ol',b'Majorca)',b'ES',https://az334034.vo.msecnd.net/images-6/white-masia-bunyola-majorca-santiago-rusinol-5a500949.jpg
+b'Spandrel decoration from Santa Maria de Ta\xc3\xbcll',b'Master of Santa Maria de Ta\xc3\xbcll',b'Ta\xc3\xbcll',,https://az333960.vo.msecnd.net/images-0/spandrel-decoration-from-santa-maria-de-taull-master-of-santa-maria-de-taull-3c244fd3.jpg
+b'Fish flanking a cross from Santa Maria de Ta\xc3\xbcll',b'Master of the Day of Judgement',b'Ta\xc3\xbcll',,https://az333960.vo.msecnd.net/images-5/fish-flanking-a-cross-from-santa-maria-de-taull-master-of-the-day-of-judgement-d82d605e.jpg
+b'Portrait of Manuel M\xc2\xaa Guti\xc3\xa9rrez',b'Antonio Mar\xc3\xada Esquivel',b'1834',,https://az334033.vo.msecnd.net/images-6/portrait-of-manuel-ma-gutierrez-antonio-maria-esquivel-1834-82c5fae6.jpg
+b'Untitled',b'Federico de Madrazo y Ochoa',b'Untitled',,https://az334033.vo.msecnd.net/images-4/untitled-federico-de-madrazo-y-ochoa-311f72c8.jpg
+b'Untitled',b'Benet Mercad\xc3\xa9',b'Untitled',,https://az334033.vo.msecnd.net/images-9/untitled-benet-mercade-04e18c6e.jpg
+b'Detail of Llavaneres',b'Josep Masriera',b'1890',,https://az333960.vo.msecnd.net/images-7/detail-of-llavaneres-josep-masriera-1890-0e993c99.jpg
+b'Apostles from Sant Rom\xc3\xa0 de les Bons',b"Master of Santa Coloma d'Andorra",b'Bons',,https://az333960.vo.msecnd.net/images-5/apostles-from-sant-roma-de-les-bons-master-of-santa-coloma-d-andorra-9b8460b9.jpg
+b'Flagellation of Saint Vincent',b'Master of Castelsardo',b'Vincent',,https://az333959.vo.msecnd.net/images-8/flagellation-of-saint-vincent-master-of-castelsardo-62101af4.jpg
+b'Altarpiece of Saint John the Baptist and Saint Stephen',b'Master of Badalona',b'1410',,https://az333959.vo.msecnd.net/images-6/altarpiece-of-saint-john-the-baptist-and-saint-stephen-master-of-badalona-1410-ad21450e.jpg
+b'Virgin of the Consellers',b'Llu\xc3\xads Dalmau',b'1445',,https://az334034.vo.msecnd.net/images-3/virgin-of-the-consellers-lluis-dalmau-1445-c29ee125.jpg
+b'Still Life',b'Francesc Lacoma i Fontanet',b'1814',,https://az334034.vo.msecnd.net/images-0/still-life-francesc-lacoma-i-fontanet-1814-1d2f35b0.jpg
+b'Manuel Quijano',b'Francisco Goya',b'1815',,https://az334034.vo.msecnd.net/images-5/manuel-quijano-francisco-goya-1815-4a255f64.jpg
+b'Untitled',b'Pere Nunyes',b'Untitled',,https://az333960.vo.msecnd.net/images-6/untitled-pere-nunyes-69e86a3e.jpg
+b'Virgin Suckling the Child',b'Juan S\xc3\xa1nchez de Castro',b'Child',,https://az333960.vo.msecnd.net/images-7/virgin-suckling-the-child-juan-sanchez-de-castro-a6010fe9.jpg
+b'Road to Calvary',b'Hans van Wechelen',b'Calvary',,https://az333959.vo.msecnd.net/images-3/road-to-calvary-hans-van-wechelen-53efbd30.jpg
+b'Blanes Beach',b'Joan Roig Soler',b'Beach',,https://az334034.vo.msecnd.net/images-1/blanes-beach-joan-roig-soler-585e1808.jpg
+b'Apparition of the Virgin of the Pilar',b'Francisco de Goya',b'1775',b'ES',https://az334034.vo.msecnd.net/images-9/apparition-of-the-virgin-of-the-pilar-francisco-de-goya-1775-6ef4d455.jpg
+b'Panels with scenes of the Martyrdom of Saint Lucy',b'Anonymous Catalonia',b'Lucy',,https://az334034.vo.msecnd.net/images-7/panels-with-scenes-of-the-martyrdom-of-saint-lucy-anonymous-catalonia-f7954b7b.jpg
+b'Epiphany',b'Francisco Herrera the Younger',b'1653',,https://az334034.vo.msecnd.net/images-2/epiphany-francisco-herrera-the-younger-1653-d3cb9745.jpg
+b'Untitled',b'Francisco Camilo',b'Untitled',,https://az333960.vo.msecnd.net/images-3/untitled-francisco-camilo-92f88b66.jpg
+b'Untitled',b"Mestre de la Seu d'Urgell",b'Untitled',,https://az334033.vo.msecnd.net/images-0/untitled-mestre-de-la-seu-d-urgell-011fc5c1.jpg
+b'Virgin Suckling the Child with Donor',b'Master of Palanquinos',b'Donor',,https://az334034.vo.msecnd.net/images-9/virgin-suckling-the-child-with-donor-master-of-palanquinos-2147f1d2.jpg
+b'Saint Candidus',b'Ayne Bru',b'1502',,https://az334033.vo.msecnd.net/images-5/saint-candidus-ayne-bru-1502-1c652e46.jpg
+b'Untitled',b'Nicol\xc3\xa1s Franc\xc3\xa9s',b'Untitled',,https://az333959.vo.msecnd.net/images-5/untitled-nicolas-frances-d5f03be3.jpg
+b"The Child Moses Throws down Pharaoh's Crown",b'Orazio de Ferrari',b'Crown',,https://az334034.vo.msecnd.net/images-7/the-child-moses-throws-down-pharaoh-s-crown-orazio-de-ferrari-1e665a56.jpg
+b'Portrait of King Joseph I',b'Jos\xc3\xa9e Flaugier',b'1809',,https://az334033.vo.msecnd.net/images-5/portrait-of-king-joseph-i-josee-flaugier-1809-616f6b23.jpg
+b'Capital and seated layman from Santa Maria de Ta\xc3\xbcll',b'Master of Santa Maria de Ta\xc3\xbcll',b'Ta\xc3\xbcll',,https://az333960.vo.msecnd.net/images-4/capital-and-seated-layman-from-santa-maria-de-taull-master-of-santa-maria-de-taull-1380ed86.jpg
+b'Saint Mary Magdalene',b'Master with the Parrot',b'Magdalene',,https://az333959.vo.msecnd.net/images-7/saint-mary-magdalene-master-with-the-parrot-717230ac.jpg
+b'Altar frontal of the Archangels',b'Master of Sant Pau de Casserres',b'Archangels',,https://az334033.vo.msecnd.net/images-9/altar-frontal-of-the-archangels-master-of-sant-pau-de-casserres-10b9873b.jpg
+b'Peter IV the Ceremonious',b'Jaume Mateu',b'1427',,https://az334033.vo.msecnd.net/images-3/peter-iv-the-ceremonious-jaume-mateu-1427-81ffe0c3.jpg
+|b'Virgin and Child, Saints and Angels'|,b'Vicente Masip',b'Angels',,https://az334033.vo.msecnd.net/images-7/virgin-and-child-saints-and-angels-vicente-masip-01e4f64e.jpg
+b'Saint Bruno',b'Juan de Juanes',b'1540',,https://az334034.vo.msecnd.net/images-4/saint-bruno-juan-de-juanes-1540-d77b9f85.jpg
+b'Untitled',b'Mart\xc3\xadn Bernat',b'Untitled',,https://az334034.vo.msecnd.net/images-5/untitled-martin-bernat-9699d08b.jpg
+b'Virgin',b'Francisco de Osona',b'Virgin',,https://az333959.vo.msecnd.net/images-9/virgin-francisco-de-osona-897174f8.jpg
+b'Portrait of a Gentleman',b'Adriaen Hanneman',b'Gentleman',,https://az333960.vo.msecnd.net/images-4/portrait-of-a-gentleman-adriaen-hanneman-55891683.jpg
+b'Untitled',b'Pedro Romana',b'Untitled',,https://az333960.vo.msecnd.net/images-8/untitled-pedro-romana-6c75f22d.jpg
+b'The Angel before the Grave',b'Francisco Rizi',b'1650',b'ES',https://az334034.vo.msecnd.net/images-4/the-angel-before-the-grave-francisco-rizi-1650-ccbe5203.jpg
+b'Portrait of the Painter Zacar\xc3\xadas Gonz\xc3\xa1lez Vel\xc3\xa1zquez',b'Antonio Mercar',b'Vel\xc3\xa1zquez',,https://az333959.vo.msecnd.net/images-5/portrait-of-the-painter-zacarias-gonzalez-velazquez-antonio-mercar-52f195ab.jpg
+b'Two coats of arms with three-towered castles',b'Anonymous Castile',b'castles',,https://az333960.vo.msecnd.net/images-3/two-coats-of-arms-with-three-towered-castles-anonymous-castile-4eb82a15.jpg
+b'Pe\xc3\xb1alara (Sierra de Guadarrama)',b'Jaume Morera',b'Guadarrama)',,https://az334034.vo.msecnd.net/images-1/penalara-sierra-de-guadarrama-jaume-morera-da8c756b.jpg
+|b'Zitto. Silenzio, che passa la ronda'|,b'Jos\xc3\xa9 Luis Pellicer',b'ronda',,https://az334034.vo.msecnd.net/images-6/zitto-silenzio-che-passa-la-ronda-jose-luis-pellicer-0e95d22e.jpg
+b'Saint Augustine Meditates on the Trinity when the Child...',b'Pablo Verg\xc3\xb3s',b'1470',,https://az334033.vo.msecnd.net/images-2/saint-augustine-meditates-on-the-trinity-when-the-child-jesus-appears-before-him-pablo-vergos-1470-986700cb.jpg
+b'Untitled',b'Pere Teixidor',b'Untitled',,https://az334033.vo.msecnd.net/images-8/untitled-pere-teixidor-0d591762.jpg
+b"El toc d'oraci\xc3\xb3",b'Modest Urgell',b'1876',b'ES',https://az333959.vo.msecnd.net/images-5/el-toc-d-oracio-modest-urgell-1876-0ee2300d.jpg
+b'The Mass of Saint Gregory',b'Diego de la Cruz',b'Gregory',,https://az334034.vo.msecnd.net/images-7/the-mass-of-saint-gregory-diego-de-la-cruz-512c84a2.jpg
+b'Six Resurrections before the Relics of Saint Stephen',b'Pere or Perot Gasc\xc3\xb3',b'Stephen',,https://az334034.vo.msecnd.net/images-4/six-resurrections-before-the-relics-of-saint-stephen-pere-or-perot-gasco-550d8ed6.jpg
+|b'Still Life with Pomegranates, Grapes, Birds and a Squirrel'|,b'Tommaso Realfonso',b'Squirrel',,https://az333960.vo.msecnd.net/images-2/still-life-with-pomegranates-grapes-birds-and-a-squirrel-tommaso-realfonso-cb23d9e0.jpg
+|b'Saint John the Baptist, Saint Fabian and Saint Sebastian'|,b'Miguel Xim\xc3\xa9nez',b'Sebastian',,https://az334033.vo.msecnd.net/images-2/saint-john-the-baptist-saint-fabian-and-saint-sebastian-miguel-ximenez-ec9758c7.jpg
+b'Altar frontal from Esterri de Card\xc3\xb3s',b'Anonymous',b'1225',,https://az333959.vo.msecnd.net/images-4/altar-frontal-from-esterri-de-cardos-anonymous-1225-74c4a286.jpg
+|b'Portrait of the Engraver Pasqual Pere Moles, first...'|,b'Vicent L\xc3\xb3pez Porta\xc3\xb1a',b'1794',,https://az333960.vo.msecnd.net/images-7/portrait-of-the-engraver-pasqual-pere-moles-first-director-of-the-escola-de-llotja-vicent-lopez-portana-1794-5642ba54.jpg
+b'Adoration of the Magi',b'Jacopo Bassano',b'1577',b'IT',https://az333959.vo.msecnd.net/images-3/adoration-of-the-magi-jacopo-bassano-1577-1d84194e.jpg
+b'Coffered ceiling panel with horsemen',b'Anonymous',b'horsemen',,https://az334034.vo.msecnd.net/images-1/coffered-ceiling-panel-with-horsemen-anonymous-8601a93b.jpg
+b"Arch of Abel's Offering from Santa Maria de Ta\xc3\xbcll",b'Master of Ta\xc3\xbcll',b'1123',,https://az333959.vo.msecnd.net/images-9/arch-of-abel-s-offering-from-santa-maria-de-taull-master-of-taull-1123-02d48c27.jpg
+b"Raguel's Blessing of her Daughter Sarah before Leaving...",b'Andrea Vaccaro',b'1640',,https://az334033.vo.msecnd.net/images-1/raguel-s-blessing-of-her-daughter-sarah-before-leaving-ecbatana-with-tobias-andrea-vaccaro-1640-fe051c2c.jpg
+b'Saint Matthias',b'Serra brothers workshop',b'Matthias',,https://az334033.vo.msecnd.net/images-5/saint-matthias-serra-brothers-workshop-89f782cf.jpg
+|b'Ceiling panel with palm leaf, birds and four-legged animals'|,b'Anonymous',b'1300',,https://az333960.vo.msecnd.net/images-2/ceiling-panel-with-palm-leaf-birds-and-four-legged-animals-anonymous-1300-3fb4a3f9.jpg
+b'Untitled',b'Master of Baltimore',b'Untitled',,https://az333960.vo.msecnd.net/images-3/untitled-master-of-baltimore-5de59de3.jpg
+b'Self-portrait',b'Salvador Mayol',b'Self-portrait',,https://az333959.vo.msecnd.net/images-8/self-portrait-salvador-mayol-8b77c611.jpg
+b'Saint from Bo\xc3\xad',b'Master of Bo\xc3\xad',b'1100',,https://az333959.vo.msecnd.net/images-2/saint-from-boi-master-of-boi-1100-002e52e7.jpg
+b'The Conversion of Saint Augustine',b'Pablo Verg\xc3\xb3s',b'1470',,https://az334033.vo.msecnd.net/images-0/the-conversion-of-saint-augustine-pablo-vergos-1470-ee9e9592.jpg
+b'Saint Anthony the Abbot Burying Saint Paul the Hermit',b'Pasqual Ortoneda',b'Hermit',,https://az334034.vo.msecnd.net/images-9/saint-anthony-the-abbot-burying-saint-paul-the-hermit-pasqual-ortoneda-aeda40bf.jpg
+b'Jesus amongst the Doctors of the Law',b'Master of Sigena',b'1515',,https://az334033.vo.msecnd.net/images-9/jesus-amongst-the-doctors-of-the-law-master-of-sigena-1515-1f7e1725.jpg
+b'Descent',b'Anton Rapha\xc3\xabl Mengs',b'1761',b'DE',https://az334033.vo.msecnd.net/images-6/descent-anton-raphael-mengs-1761-4748f8fa.jpg
+|b'Annunciation, Birth and Crucifixion from Sorpe'|,b'Master of Sorpe',b'1150',,https://az334033.vo.msecnd.net/images-4/annunciation-birth-and-crucifixion-from-sorpe-master-of-sorpe-1150-3ed57dcb.jpg
+b"The Criminal. 'The Mark of the Crime'",b'Ramon Mart\xc3\xad Alsina',b'1866',,https://az334034.vo.msecnd.net/images-4/the-criminal-the-mark-of-the-crime-ramon-marti-alsina-1866-9c9a9468.jpg
+b'Everlasting Father',b'Annibale Carracci',b'1604',b'IT',https://az333960.vo.msecnd.net/images-6/everlasting-father-annibale-carracci-1604-233501e7.jpg
+b'Epiphany',b'Master of Paul and Barnabas',b'Epiphany',,https://az333960.vo.msecnd.net/images-2/epiphany-master-of-paul-and-barnabas-1b95f7be.jpg
+b'Portrait of a Gentleman',b'Anonymous',b'1830',,https://az333959.vo.msecnd.net/images-3/portrait-of-a-gentleman-anonymous-1830-1-604bd94c.jpg
+b'Apse of Ginestarre',b'Anonymous',b'Ginestarre',,https://az334034.vo.msecnd.net/images-9/apse-of-ginestarre-anonymous-6913e465.jpg
+b'Peasant in Rome',b'Arcadio Mas y Fondevila',b'Rome',,https://az334033.vo.msecnd.net/images-9/peasant-in-rome-arcadio-mas-y-fondevila-4b06e167.jpg
+b'Portrait of a Lady',b'Vincenzo Tamagni',b'Lady',,https://az333960.vo.msecnd.net/images-6/portrait-of-a-lady-vincenzo-tamagni-99157c09.jpg
+b'Composition with Winged Nymph Blowing Amongst Reeds',b'Alexandre de Riquer',b'1887',,https://az333959.vo.msecnd.net/images-1/composition-with-winged-nymph-blowing-amongst-reeds-alexandre-de-riquer-1887-8b841a97.jpg
+|b'Altarpiece of the Virgin with Saints Agatha, Stephen,...'|,b'Giovanni di Pietro da Pisa',|b'Stephen,...'|,,https://az333959.vo.msecnd.net/images-2/altarpiece-of-the-virgin-with-saints-agatha-stephen-francis-and-a-martyr-saint-giovanni-di-pietro-da-pisa-1d1513a8.jpg
+b'Tav\xc3\xa8rnoles baldachin',b"Anonymous Catalonia La Seu d'Urgell 1200 workshop",b'baldachin',,https://az334033.vo.msecnd.net/images-2/tavernoles-baldachin-anonymous-catalonia-la-seu-d-urgell-1200-workshop-cc47562e.jpg
+b'Virgin and Saints',b'Rossello di Jacopo Franchi',b'Saints',,https://az333959.vo.msecnd.net/images-3/virgin-and-saints-rossello-di-jacopo-franchi-aea7c3ef.jpg
+b'Miss Del Castillo on her Deathbed',b'Mari\xc3\xa0 Fortuny Marsal',b'1871',,https://az334034.vo.msecnd.net/images-4/miss-del-castillo-on-her-deathbed-maria-fortuny-marsal-1871-c4690c65.jpg
+b'Crucifixion',b'Anonymous',b'Crucifixion',,https://az334034.vo.msecnd.net/images-4/crucifixion-anonymous-6-feb2205f.jpg
+b'Paintings from the doors of the organ from La Seu d...',b"Master of La Seu d'Urgell",b'd...',,https://az334034.vo.msecnd.net/images-7/paintings-from-the-doors-of-the-organ-from-la-seu-d-urgell-cathedral-master-of-la-seu-d-urgell-bcca2136.jpg
+b"Woman's Head",b'Vicent L\xc3\xb3pez Porta\xc3\xb1a',b'1826',,https://az334034.vo.msecnd.net/images-9/woman-s-head-vicent-lopez-portana-1826-db9c63fd.jpg
+b'Children with Grapes',b'Bernhard Keil',b'1650',,https://az333960.vo.msecnd.net/images-2/children-with-grapes-bernhard-keil-1650-01217b64.jpg
+b"Sketch for 'Arab Caf\xc3\xa9'",b'Tom\xc3\xa0s Moragas',b"Caf\xc3\xa9'",,https://az333960.vo.msecnd.net/images-3/sketch-for-arab-cafe-tomas-moragas-91a11a76.jpg
+b'Saint John the Baptist and Saint Stephen',b'Master of Saint John and Saint Stephen',b'Stephen',,https://az333959.vo.msecnd.net/images-4/saint-john-the-baptist-and-saint-stephen-master-of-saint-john-and-saint-stephen-9ec11c4e.jpg
+b'Opera',b'Ricard Urgell',b'1922',,https://az334033.vo.msecnd.net/images-3/opera-ricard-urgell-1922-e0c20f21.jpg
+|b'Saint John the Baptist, Annunciation, Crucifixion, Saint...'|,b'Francesc Comes',b'1400',,https://az333960.vo.msecnd.net/images-9/saint-john-the-baptist-annunciation-crucifixion-saint-catherine-of-alexandria-francesc-comes-1400-955e26c3.jpg
+b'Pla de la Boqueria',b'Achille Battistuzzi',b'1873',,https://az333959.vo.msecnd.net/images-4/pla-de-la-boqueria-achille-battistuzzi-1873-037c86af.jpg
+b'Portrait of Fray Alonso de Santo Tom\xc3\xa1s',b'Juan Bautista Mayno',b'1648',,https://az333960.vo.msecnd.net/images-9/portrait-of-fray-alonso-de-santo-tomas-juan-bautista-mayno-1648-595a7f69.jpg
+b'Birth of Jesus and the Adoration of the Shepherds',b'Francesc Pla i Duran',b'Shepherds',,https://az334034.vo.msecnd.net/images-1/birth-of-jesus-and-the-adoration-of-the-shepherds-francesc-pla-i-duran-d2af56bd.jpg
+b'Saviour',b'Pere Teixidor',b'1425',,https://az334033.vo.msecnd.net/images-2/saviour-pere-teixidor-1425-2a374ce0.jpg
+b'Monk Saint [?] with a Model of a Church',b'Bartolomeo degli Erri',b'1480',,https://az333960.vo.msecnd.net/images-5/monk-saint-with-a-model-of-a-church-bartolomeo-degli-erri-1480-52cd2d50.jpg
+b'Alfons IV the Magnanimous',b'Jaume Mateu',b'1427',,https://az334034.vo.msecnd.net/images-2/alfons-iv-the-magnanimous-jaume-mateu-1427-c0f1eb96.jpg
+b'Christ Crucified',b'Francisco de Zurbar\xc3\xa1n',b'1655',b'ES',https://az333960.vo.msecnd.net/images-9/christ-crucified-francisco-de-zurbaran-1655-7919ee0c.jpg
+|b'Altarpiece of Esquius, of Santa Maria de Besora'|,b'Anonymous',b'1200',,https://az333960.vo.msecnd.net/images-5/altarpiece-of-esquius-of-santa-maria-de-besora-anonymous-1200-f39a3e8d.jpg
+b'Self-portrait',b'Josep Arrau Barba',b'1837',,https://az334033.vo.msecnd.net/images-8/self-portrait-josep-arrau-barba-1837-1726fca5.jpg
+b'Altarpiece of the Virgin',b'Jaume Serra',b'Virgin',,https://az333959.vo.msecnd.net/images-0/altarpiece-of-the-virgin-jaume-serra-c8305fec.jpg
+|b'Saint James with a Donor, Decapitation of Saint James'|,b'Master of Cru\xc3\xaflles',b'James',,https://az333960.vo.msecnd.net/images-2/saint-james-with-a-donor-decapitation-of-saint-james-master-of-cruilles-55863d1d.jpg
+b'Portrait of Montserrat Carb\xc3\xb3',b'Ram\xc3\xb3n Casas',b'1888',,https://az334034.vo.msecnd.net/images-7/portrait-of-montserrat-carbo-ramon-casas-1888-591bfa78.jpg
+b'Composition with winged nymph at sunrise',b'Alexandre de Riquer',b'1887',,https://az334033.vo.msecnd.net/images-0/composition-with-winged-nymph-at-sunrise-alexandre-de-riquer-1887-dcfe21d1.jpg
+b'Untitled',b'Taller dels germans Serra',b'Untitled',,https://az334033.vo.msecnd.net/images-2/untitled-taller-dels-germans-serra-8fc541ff.jpg
+b'Portrait of Isabel Llorach',b'Ram\xc3\xb3n Casas',b'1901',,https://az333959.vo.msecnd.net/images-8/portrait-of-isabel-llorach-ramon-casas-1901-f30500e9.jpg
+b'The Dew',b'Adri\xc3\xa0 Gual',b'1897',,https://az334034.vo.msecnd.net/images-5/the-dew-adria-gual-1897-87cc6a1b.jpg
+b'Terrace',b'Joaquim Vayreda i Vila',b'1891',,https://az333959.vo.msecnd.net/images-3/terrace-joaquim-vayreda-i-vila-1891-cc120f82.jpg
+b'Nativity and Saint John the Evangelist',b'Guerau Gener',b'1450',,https://az333959.vo.msecnd.net/images-7/nativity-and-saint-john-the-evangelist-guerau-gener-1450-02c18ecd.jpg
+b'Martyrdom of Saint Cucuphas',b'Ayne Bru',b'1500',,https://az334034.vo.msecnd.net/images-1/martyrdom-of-saint-cucuphas-ayne-bru-1500-b5c92a7c.jpg
+b'Profane paintings from Sigena: Retinue of pilgrims and...',b'Anonymous',b'1200',,https://az334034.vo.msecnd.net/images-0/profane-paintings-from-sigena-retinue-of-pilgrims-and-assault-on-a-castle-saint-john-of-acre-anonymous-1200-68d8d891.jpg
+b'Portrait of Teresita Wearing Blue Bows',b'Benet Mercad\xc3\xa9',b'1872',,https://az334033.vo.msecnd.net/images-0/portrait-of-teresita-wearing-blue-bows-benet-mercade-1872-70ab4aa9.jpg
+b'Altar frontal from Plan\xc3\xa8s',b'Anonymous',b'1150',,https://az333959.vo.msecnd.net/images-9/altar-frontal-from-planes-anonymous-1150-f1557a69.jpg
+b'Music Hall Interior',b'Ricard Canals',b'1897',,https://az334034.vo.msecnd.net/images-0/music-hall-interior-ricard-canals-1897-7bca962e.jpg
+b'Study',b'Arcadio Mas y Fondevila',b'Study',,https://az334033.vo.msecnd.net/images-4/study-arcadio-mas-y-fondevila-e781200c.jpg
+b'Christ in Majesty with the Symbols of the Evangelists',b'Anonymous',b'Evangelists',,https://az334033.vo.msecnd.net/images-8/christ-in-majesty-with-the-symbols-of-the-evangelists-anonymous-15dcfb61.jpg
+b'Apse of Engolasters',b"Master of Santa Coloma d'Andorra",b'1160',,https://az334034.vo.msecnd.net/images-4/apse-of-engolasters-master-of-santa-coloma-d-andorra-1160-bd0fb3dd.jpg
+b'Border and bird from Arlanza',b'Anonymous',b'1210',,https://az334033.vo.msecnd.net/images-4/border-and-bird-from-arlanza-anonymous-1210-51aab7fe.jpg
+b'Portrait of Senyora Baladia',b'Ram\xc3\xb3n Casas',b'1907',,https://az334033.vo.msecnd.net/images-4/portrait-of-senyora-baladia-ramon-casas-1907-5ba7960a.jpg
+b'Visitation',b'Francesc Pla i Duran',b'1780',,https://az334034.vo.msecnd.net/images-1/visitation-francesc-pla-i-duran-1780-e2d9b9e8.jpg
+b'Saint Anthony the Abbot and Donors',b'Mart\xc3\xadn Bernat',b'1450',,https://az333960.vo.msecnd.net/images-6/saint-anthony-the-abbot-and-donors-martin-bernat-1450-a7cf94b1.jpg
+b'Pompeian Child',b'Arcadi Mas i Fontdevila',b'1879',,https://az334033.vo.msecnd.net/images-0/pompeian-child-arcadi-mas-i-fontdevila-1879-101a7ebf.jpg
+b'Saint Peter Enthroned',b'Rodrigo de Osona',b'1480',,https://az333959.vo.msecnd.net/images-8/saint-peter-enthroned-rodrigo-de-osona-1480-195f5c12.jpg
+b'Saint Michael Weighing Souls',b'Juan de la Abad\xc3\xada',b'1490',,https://az334034.vo.msecnd.net/images-8/saint-michael-weighing-souls-juan-de-la-abadia-1490-56380c28.jpg
+b'The House in Nazareth',b'Francesc Pla i Duran',b'1780',,https://az333959.vo.msecnd.net/images-8/the-house-in-nazareth-francesc-pla-i-duran-1780-f3eedf48.jpg
+|b'Resurrection, from the Chapter House in Sigena'|,b'Master of the Sigena chapter house',b'1200',,https://az333959.vo.msecnd.net/images-5/resurrection-from-the-chapter-house-in-sigena-master-of-the-sigena-chapter-house-1200-3a63b29d.jpg
+b'Birth of the Virgin',b'Francesc Pla i Duran',b'1780',,https://az334033.vo.msecnd.net/images-1/birth-of-the-virgin-francesc-pla-i-duran-1780-5176e00f.jpg
+b'Summer',b'Antoni Viladomat Y Manalt',b'1730',,https://az333959.vo.msecnd.net/images-1/summer-antoni-viladomat-y-manalt-1730-849b4550.jpg
+|b'Portrait of Don Manuel de Amat y Junyent (1702-1782),...'|,b'Pedro D\xc3\xadaz',b'1773',,https://az334033.vo.msecnd.net/images-8/portrait-of-don-manuel-de-amat-y-junyent-1702-1782-viceroy-of-peru-1761-1776-pedro-diaz-1773-fa80db04.jpg
+b'The Path to Granollers',b'Ramon Mart\xc3\xad Alsina',b'1850',,https://az334034.vo.msecnd.net/images-4/the-path-to-granollers-ramon-marti-alsina-1850-bab93f69.jpg
+b'Beam of Cardet',b'Anonymous',b'1250',,https://az333960.vo.msecnd.net/images-1/beam-of-cardet-anonymous-1250-d94a26de.jpg
+b'The Slaughter of The Abencerrajes',b'Mari\xc3\xa0 Fortuny Marsal',b'1870',,https://az334034.vo.msecnd.net/images-0/the-slaughter-of-the-abencerrajes-maria-fortuny-marsal-1870-9f9d5e0a.jpg
+b'Market Day in Torroella',b'Francisco Gimeno Arasa',b'Torroella',,https://az334033.vo.msecnd.net/images-3/market-day-in-torroella-francisco-gimeno-arasa-d4d83a46.jpg
+b'Remains of a figure and buildings from Bo\xc3\xad',b'Master of Bo\xc3\xad',b'1100',,https://az333959.vo.msecnd.net/images-6/remains-of-a-figure-and-buildings-from-boi-master-of-boi-1100-0407f8f7.jpg
+|b'Annunciation, Nativity, Dormition and Coronation of the...'|,b'Anonymous',b'1295',,https://az334034.vo.msecnd.net/images-7/annunciation-nativity-dormition-and-coronation-of-the-virgin-anonymous-1295-7afa8266.jpg
+b"Saint Stephen's Dispute with the Jews",b'Anonymous',b'1350',,https://az334034.vo.msecnd.net/images-2/saint-stephen-s-dispute-with-the-jews-anonymous-1350-a2735ea4.jpg
+b'Altarpiece of the Corpus Christi',b'Guillem Seguer',b'1340',,https://az334033.vo.msecnd.net/images-9/altarpiece-of-the-corpus-christi-guillem-seguer-1340-b07e72f4.jpg
+b'Altar frontal from Sant Rom\xc3\xa0 de Vila',b'Anonymous',b'1215',,https://az334034.vo.msecnd.net/images-8/altar-frontal-from-sant-roma-de-vila-anonymous-1215-64834ffd.jpg
+b'Virgin of the Angels',b'Enrique de Estencop',b'1391',,https://az333959.vo.msecnd.net/images-9/virgin-of-the-angels-enrique-de-estencop-1391-3b371b98.jpg
+|b'Mary Magdalene, Martha, Lazarus and Maximinus Worshipped...'|,b'Alvise Donati',b'1508',,https://az334034.vo.msecnd.net/images-7/mary-magdalene-martha-lazarus-and-maximinus-worshipped-by-the-prince-and-princess-of-provence-and-mary-magdalene-listening-to-christ-s-sermon-alvise-donati-1508-92efb78a.jpg
+b'Human Suffering',b'Leo Van Aken',b'1890',,https://az334033.vo.msecnd.net/images-6/human-suffering-leo-van-aken-1890-d1dfa0c6.jpg
+b'Portrait of Gloria Fabr\xc3\xa9s',b'Antonio Fabr\xc3\xa9s',b'1920',,https://az333960.vo.msecnd.net/images-1/portrait-of-gloria-fabres-antonio-fabres-1920-c1c7d063.jpg
+b'The Marne',b'Eliseo Meifr\xc3\xa9n y Roig',b'1932',,https://az333959.vo.msecnd.net/images-5/the-marne-eliseo-meifren-y-roig-1932-bf3f97ba.jpg
+b'Portrait of a Woman',b'Sim\xc3\xb3 G\xc3\xb3mez',b'1873',,https://az333959.vo.msecnd.net/images-9/portrait-of-a-woman-simo-gomez-1873-81d7fd9b.jpg
+b'Ceiling panel with an eagle between coats of arms of the...',b'Anonymous',b'the...',,https://az333960.vo.msecnd.net/images-6/ceiling-panel-with-an-eagle-between-coats-of-arms-of-the-caldes-family-and-plant-motifs-anonymous-3c1e722e.jpg
